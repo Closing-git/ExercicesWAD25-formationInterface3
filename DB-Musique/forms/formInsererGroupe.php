@@ -37,7 +37,7 @@
 
 
     echo ('<div class="content-morceau">');
-    echo ('<form action="./formInsererGroupeTraitement.php" method="POST">');
+    echo ('<form enctype ="multipart/form-data" action="./formInsererGroupeTraitement.php" method="POST">');
     echo ('<label for="nom">Nom du groupe</label>');
     echo ('<input type="text" name="nom" id="nom">');
     echo ('<label for="annee_formation">Année de formation</label>');
@@ -48,6 +48,10 @@
         echo ('<option value="' . $style["id"] . '">' . $style["nom"] . '</option>');
     }
     echo ('</select>');
+    echo ('<br>');
+    echo ('<label for="photo_groupe">Ajouter une photo :</label>');
+    echo ('<input type="file" name="photo_groupe" id="photo_groupe">');
+    echo ('<br>');
     echo ('<input type="submit" value="Ajout du groupe" />');
 
 
