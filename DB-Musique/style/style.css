@@ -1,0 +1,56 @@
+@font-face {
+    font-family: "Kavoon";
+    src:
+        local("Kavoon"),
+        url("../fonts/Kavoon.ttf")
+}
+
+.content {
+    width: 80%;
+    display: flex;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 120px;
+}
+
+.footer-color {
+    background-color: rgba(104, 126, 214, 0.105);
+    width: 100vw;
+}
+
+.navbar {
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-bottom: 25px;
+}
+
+.nav-color {
+    background-color: rgba(102, 126, 224, 0.391);
+    padding: 15px;
+}
+
+.title {
+    margin-left: 65px;
+    font-family: "Kavoon";
+}
+
+img {
+    height:18em;
+    width: 25em;
+}
+
+.titre-morceau {
+    color: rgb(27, 43, 216);
+    margin: auto;
+    display: flex;
+    width:fit-content;
+}
+
+.content-morceau {
+    background-color: rgba(35, 62, 197, 0.519);
+    width:50%;
+    margin:auto;
+    margin-top: 100px;
+    padding: 25px;
+    border-radius: 20px;
+}
