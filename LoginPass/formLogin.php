@@ -8,6 +8,15 @@
 </head>
 
 <body>
+    <?php
+    session_start();
+    if (isset($_SESSION['nom'])) {
+        echo "<p>Vous êtes connecté en tant que " . $_SESSION['nom'] . "</p>";
+    } else {
+        echo "<p>Non connecté</p>";
+    }
+    ?>
+
     <form action="./formLoginTraitement.php" method="POST">
         <label for="email">E-Mail :</label>
         <input type="email" name="email" id="email">

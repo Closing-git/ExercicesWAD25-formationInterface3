@@ -1,14 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-
-<body>
     <?php
+    session_start();
     //Obtenir les données
     $email = $_POST['email'];
     $password = $_POST['password'];
@@ -32,24 +23,18 @@
 
     if ($res === false) {
         //L'utilisateur n'existe pas
-        echo "<p> L'utilisateur n'existe pas </p>";
-        echo "<a href=./formInscription.php>Inscription </a>";
-        echo "<a href=./formLogin.php>Réessayer </a>";
+        header('location: ./formInscription.php');
     } else {
         $password_db = $res['password'];
         if (password_verify($password, $password_db)) {
-            echo "<p> Bon mdp </p>";
+            $_SESSION['email']=$email;
+            $_SESSION['nom']=$res['nom'];
+            header('location: ./accueil.php');
         } else {
-            echo "<p>Mauvais mdp</p>";
+            header('location: ./formLogin.php');
         }
     }
-
     var_dump($stmt->errorInfo());
-    var_dump($res)
-
-
+    var_dump($res);
 
     ?>
-</body>
-
-</html>
