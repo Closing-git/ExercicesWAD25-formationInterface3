@@ -1,0 +1,6 @@
+{
+    "require": {
+        "spatie/image": "^3.8",
+        "fakerphp/faker": "^1.24"
+    }
+}
