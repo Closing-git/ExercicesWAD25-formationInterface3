@@ -16,29 +16,6 @@ $description="Un film sur l'amour";
 $dateSortie=new DateTime('2025-11-25');
 
 
-// 1. Créer une connexion à la BD
-include "./connexion/db.php";
-try {
-    $cnx = new PDO(DSN, DBUSER, DBPASS);
-} catch (Exception $e) {
-    // jamais en production car ça montre des infos
-    // sensibles
-    echo $e->getMessage();
-    die();
-}
-$sql = "INSERT INTO film (id, titre, duree, description, dateSortie) ";
-$sql .= " VALUES (NULL , :titre, :duree, :description, :dateSortie )";
-
-// https://www.php.net/manual/fr/pdo.constants.php
-$stmt = $cnx->prepare($sql);
-
-$stmt->bindValue (":titre", $titre);
-$stmt->bindValue (":duree", $duree, PDO::PARAM_INT);
-$stmt->bindValue (":description", $description);
-$stmt->bindValue (":dateSortie", $dateSortie->format('Y-m-d'));
-
-
-$stmt->execute();
 // var_dump ($stmt->errorInfo());
 
 var_dump($stmt->errorInfo());

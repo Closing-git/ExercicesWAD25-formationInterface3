@@ -6,6 +6,7 @@ class Film {
     private int $duree;
     private string $description;
     private DateTime $dateSortie;
+    
 
     public function __construct(string $titre, int $duree, string $description, DateTime $dateSortie) {
         $this->titre = $titre;
