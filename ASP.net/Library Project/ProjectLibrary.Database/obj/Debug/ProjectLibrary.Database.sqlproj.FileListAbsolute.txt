@@ -1,0 +1,10 @@
+G:\Interface 3\ASP.Net\I3-WAD25-ASP-MVC-ProjectLibrary\ProjectLibrary.Database\bin\Debug\ProjectLibrary.Database.dacpac
+G:\Interface 3\ASP.Net\I3-WAD25-ASP-MVC-ProjectLibrary\ProjectLibrary.Database\bin\Debug\ProjectLibrary.Database.dll
+G:\Interface 3\ASP.Net\I3-WAD25-ASP-MVC-ProjectLibrary\ProjectLibrary.Database\bin\Debug\ProjectLibrary.Database.pdb
+G:\Interface 3\ASP.Net\I3-WAD25-ASP-MVC-ProjectLibrary\ProjectLibrary.Database\obj\Debug\ProjectLibrary.Database.sqlproj.AssemblyReference.cache
+G:\Interface 3\ASP.Net\I3-WAD25-ASP-MVC-ProjectLibrary\ProjectLibrary.Database\obj\Debug\Model.xml
+G:\Interface 3\ASP.Net\I3-WAD25-ASP-MVC-ProjectLibrary\ProjectLibrary.Database\obj\Debug\refactor.xml
+G:\Interface 3\ASP.Net\I3-WAD25-ASP-MVC-ProjectLibrary\ProjectLibrary.Database\obj\Debug\postdeploy.sql
+G:\Interface 3\ASP.Net\I3-WAD25-ASP-MVC-ProjectLibrary\ProjectLibrary.Database\obj\Debug\predeploy.sql
+G:\Interface 3\ASP.Net\I3-WAD25-ASP-MVC-ProjectLibrary\ProjectLibrary.Database\obj\Debug\ProjectLibrary.Database.dll
+G:\Interface 3\ASP.Net\I3-WAD25-ASP-MVC-ProjectLibrary\ProjectLibrary.Database\obj\Debug\ProjectLibrary.Database.pdb

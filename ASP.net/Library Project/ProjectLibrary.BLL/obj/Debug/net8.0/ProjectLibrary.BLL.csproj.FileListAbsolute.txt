@@ -1,0 +1,16 @@
+G:\Interface 3\ASP.Net\I3-WAD25-ASP-MVC-ProjectLibrary\ProjectLibrary.BLL\bin\Debug\net8.0\ProjectLibrary.BLL.deps.json
+G:\Interface 3\ASP.Net\I3-WAD25-ASP-MVC-ProjectLibrary\ProjectLibrary.BLL\bin\Debug\net8.0\ProjectLibrary.BLL.dll
+G:\Interface 3\ASP.Net\I3-WAD25-ASP-MVC-ProjectLibrary\ProjectLibrary.BLL\bin\Debug\net8.0\ProjectLibrary.BLL.pdb
+G:\Interface 3\ASP.Net\I3-WAD25-ASP-MVC-ProjectLibrary\ProjectLibrary.BLL\obj\Debug\net8.0\ProjectLibrary.BLL.GeneratedMSBuildEditorConfig.editorconfig
+G:\Interface 3\ASP.Net\I3-WAD25-ASP-MVC-ProjectLibrary\ProjectLibrary.BLL\obj\Debug\net8.0\ProjectLibrary.BLL.AssemblyInfoInputs.cache
+G:\Interface 3\ASP.Net\I3-WAD25-ASP-MVC-ProjectLibrary\ProjectLibrary.BLL\obj\Debug\net8.0\ProjectLibrary.BLL.AssemblyInfo.cs
+G:\Interface 3\ASP.Net\I3-WAD25-ASP-MVC-ProjectLibrary\ProjectLibrary.BLL\obj\Debug\net8.0\ProjectLibrary.BLL.csproj.CoreCompileInputs.cache
+G:\Interface 3\ASP.Net\I3-WAD25-ASP-MVC-ProjectLibrary\ProjectLibrary.BLL\obj\Debug\net8.0\ProjectLibrary.BLL.sourcelink.json
+G:\Interface 3\ASP.Net\I3-WAD25-ASP-MVC-ProjectLibrary\ProjectLibrary.BLL\obj\Debug\net8.0\ProjectLibrary.BLL.dll
+G:\Interface 3\ASP.Net\I3-WAD25-ASP-MVC-ProjectLibrary\ProjectLibrary.BLL\obj\Debug\net8.0\refint\ProjectLibrary.BLL.dll
+G:\Interface 3\ASP.Net\I3-WAD25-ASP-MVC-ProjectLibrary\ProjectLibrary.BLL\obj\Debug\net8.0\ProjectLibrary.BLL.pdb
+G:\Interface 3\ASP.Net\I3-WAD25-ASP-MVC-ProjectLibrary\ProjectLibrary.BLL\obj\Debug\net8.0\ref\ProjectLibrary.BLL.dll
+G:\Interface 3\ASP.Net\I3-WAD25-ASP-MVC-ProjectLibrary\ProjectLibrary.BLL\bin\Debug\net8.0\ProjectLibrary.DAL.dll
+G:\Interface 3\ASP.Net\I3-WAD25-ASP-MVC-ProjectLibrary\ProjectLibrary.BLL\bin\Debug\net8.0\ProjectLibrary.DAL.pdb
+G:\Interface 3\ASP.Net\I3-WAD25-ASP-MVC-ProjectLibrary\ProjectLibrary.BLL\obj\Debug\net8.0\ProjectLibrary.BLL.csproj.AssemblyReference.cache
+G:\Interface 3\ASP.Net\I3-WAD25-ASP-MVC-ProjectLibrary\ProjectLibrary.BLL\obj\Debug\net8.0\ProjectL.6C663ED7.Up2Date

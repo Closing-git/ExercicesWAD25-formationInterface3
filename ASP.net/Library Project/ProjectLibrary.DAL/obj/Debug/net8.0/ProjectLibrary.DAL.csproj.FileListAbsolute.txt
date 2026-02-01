@@ -1,0 +1,13 @@
+G:\Interface 3\ASP.Net\I3-WAD25-ASP-MVC-ProjectLibrary\ProjectLibrary.DAL\obj\Debug\net8.0\ProjectLibrary.DAL.csproj.AssemblyReference.cache
+G:\Interface 3\ASP.Net\I3-WAD25-ASP-MVC-ProjectLibrary\ProjectLibrary.DAL\obj\Debug\net8.0\ProjectLibrary.DAL.GeneratedMSBuildEditorConfig.editorconfig
+G:\Interface 3\ASP.Net\I3-WAD25-ASP-MVC-ProjectLibrary\ProjectLibrary.DAL\obj\Debug\net8.0\ProjectLibrary.DAL.AssemblyInfoInputs.cache
+G:\Interface 3\ASP.Net\I3-WAD25-ASP-MVC-ProjectLibrary\ProjectLibrary.DAL\obj\Debug\net8.0\ProjectLibrary.DAL.AssemblyInfo.cs
+G:\Interface 3\ASP.Net\I3-WAD25-ASP-MVC-ProjectLibrary\ProjectLibrary.DAL\obj\Debug\net8.0\ProjectLibrary.DAL.csproj.CoreCompileInputs.cache
+G:\Interface 3\ASP.Net\I3-WAD25-ASP-MVC-ProjectLibrary\ProjectLibrary.DAL\obj\Debug\net8.0\ProjectLibrary.DAL.sourcelink.json
+G:\Interface 3\ASP.Net\I3-WAD25-ASP-MVC-ProjectLibrary\ProjectLibrary.DAL\bin\Debug\net8.0\ProjectLibrary.DAL.deps.json
+G:\Interface 3\ASP.Net\I3-WAD25-ASP-MVC-ProjectLibrary\ProjectLibrary.DAL\bin\Debug\net8.0\ProjectLibrary.DAL.dll
+G:\Interface 3\ASP.Net\I3-WAD25-ASP-MVC-ProjectLibrary\ProjectLibrary.DAL\bin\Debug\net8.0\ProjectLibrary.DAL.pdb
+G:\Interface 3\ASP.Net\I3-WAD25-ASP-MVC-ProjectLibrary\ProjectLibrary.DAL\obj\Debug\net8.0\ProjectLibrary.DAL.dll
+G:\Interface 3\ASP.Net\I3-WAD25-ASP-MVC-ProjectLibrary\ProjectLibrary.DAL\obj\Debug\net8.0\refint\ProjectLibrary.DAL.dll
+G:\Interface 3\ASP.Net\I3-WAD25-ASP-MVC-ProjectLibrary\ProjectLibrary.DAL\obj\Debug\net8.0\ProjectLibrary.DAL.pdb
+G:\Interface 3\ASP.Net\I3-WAD25-ASP-MVC-ProjectLibrary\ProjectLibrary.DAL\obj\Debug\net8.0\ref\ProjectLibrary.DAL.dll
