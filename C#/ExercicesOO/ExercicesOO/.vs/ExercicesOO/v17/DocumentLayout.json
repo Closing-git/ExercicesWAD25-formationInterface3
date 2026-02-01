@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Interface 3\\C#\\ExercicesOO\\ExercicesOO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{006C0449-0480-4E3D-A768-B0BB363A40BF}|ExercicesOO\\Exercice1.csproj|g:\\interface 3\\c#\\exercicesoo\\exercicesoo\\exercicesoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{006C0449-0480-4E3D-A768-B0BB363A40BF}|ExercicesOO\\Exercice1.csproj|solutionrelative:exercicesoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{006C0449-0480-4E3D-A768-B0BB363A40BF}|ExercicesOO\\Exercice1.csproj|g:\\interface 3\\c#\\exercicesoo\\exercicesoo\\exercicesoo\\couleurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{006C0449-0480-4E3D-A768-B0BB363A40BF}|ExercicesOO\\Exercice1.csproj|solutionrelative:exercicesoo\\couleurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{006C0449-0480-4E3D-A768-B0BB363A40BF}|ExercicesOO\\Exercice1.csproj|g:\\interface 3\\c#\\exercicesoo\\exercicesoo\\exercicesoo\\jeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{006C0449-0480-4E3D-A768-B0BB363A40BF}|ExercicesOO\\Exercice1.csproj|solutionrelative:exercicesoo\\jeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{006C0449-0480-4E3D-A768-B0BB363A40BF}|ExercicesOO\\Exercice1.csproj|g:\\interface 3\\c#\\exercicesoo\\exercicesoo\\exercicesoo\\joueur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{006C0449-0480-4E3D-A768-B0BB363A40BF}|ExercicesOO\\Exercice1.csproj|solutionrelative:exercicesoo\\joueur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{006C0449-0480-4E3D-A768-B0BB363A40BF}|ExercicesOO\\Exercice1.csproj|g:\\interface 3\\c#\\exercicesoo\\exercicesoo\\exercicesoo\\casepropriete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{006C0449-0480-4E3D-A768-B0BB363A40BF}|ExercicesOO\\Exercice1.csproj|solutionrelative:exercicesoo\\casepropriete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chloe\\AppData\\Local\\Temp\\50b307ab-ddf8-4435-a7d3-fed123251166_I3-WAD25-CSharp-OO.zip.166\\I3-WAD25-CSharp-OO\\Demo07\\Models\\Garage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chloe\\AppData\\Local\\Temp\\51a42de0-9daa-4300-ba9d-66d3d24995bd_I3-WAD25-CSharp-OO.zip.5bd\\I3-WAD25-CSharp-OO\\Demo07\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Couleurs.cs",
+              "DocumentMoniker": "G:\\Interface 3\\C#\\ExercicesOO\\ExercicesOO\\ExercicesOO\\Couleurs.cs",
+              "RelativeDocumentMoniker": "ExercicesOO\\Couleurs.cs",
+              "ToolTip": "G:\\Interface 3\\C#\\ExercicesOO\\ExercicesOO\\ExercicesOO\\Couleurs.cs",
+              "RelativeToolTip": "ExercicesOO\\Couleurs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T14:06:28.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Garage.cs",
+              "DocumentMoniker": "C:\\Users\\chloe\\AppData\\Local\\Temp\\50b307ab-ddf8-4435-a7d3-fed123251166_I3-WAD25-CSharp-OO.zip.166\\I3-WAD25-CSharp-OO\\Demo07\\Models\\Garage.cs",
+              "ToolTip": "C:\\Users\\chloe\\AppData\\Local\\Temp\\50b307ab-ddf8-4435-a7d3-fed123251166_I3-WAD25-CSharp-OO.zip.166\\I3-WAD25-CSharp-OO\\Demo07\\Models\\Garage.cs [Lecture seule]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T10:58:21.169Z",
+              "EditorCaption": " [Lecture seule]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chloe\\AppData\\Local\\Temp\\51a42de0-9daa-4300-ba9d-66d3d24995bd_I3-WAD25-CSharp-OO.zip.5bd\\I3-WAD25-CSharp-OO\\Demo07\\Program.cs",
+              "ToolTip": "C:\\Users\\chloe\\AppData\\Local\\Temp\\51a42de0-9daa-4300-ba9d-66d3d24995bd_I3-WAD25-CSharp-OO.zip.5bd\\I3-WAD25-CSharp-OO\\Demo07\\Program.cs [Lecture seule]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T10:58:14.144Z",
+              "EditorCaption": " [Lecture seule]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Jeu.cs",
+              "DocumentMoniker": "G:\\Interface 3\\C#\\ExercicesOO\\ExercicesOO\\ExercicesOO\\Jeu.cs",
+              "RelativeDocumentMoniker": "ExercicesOO\\Jeu.cs",
+              "ToolTip": "G:\\Interface 3\\C#\\ExercicesOO\\ExercicesOO\\ExercicesOO\\Jeu.cs",
+              "RelativeToolTip": "ExercicesOO\\Jeu.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T10:47:08.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CasePropriete.cs",
+              "DocumentMoniker": "G:\\Interface 3\\C#\\ExercicesOO\\ExercicesOO\\ExercicesOO\\CasePropriete.cs",
+              "RelativeDocumentMoniker": "ExercicesOO\\CasePropriete.cs",
+              "ToolTip": "G:\\Interface 3\\C#\\ExercicesOO\\ExercicesOO\\ExercicesOO\\CasePropriete.cs",
+              "RelativeToolTip": "ExercicesOO\\CasePropriete.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T11:07:03.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Interface 3\\C#\\ExercicesOO\\ExercicesOO\\ExercicesOO\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicesOO\\Program.cs",
+              "ToolTip": "G:\\Interface 3\\C#\\ExercicesOO\\ExercicesOO\\ExercicesOO\\Program.cs",
+              "RelativeToolTip": "ExercicesOO\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T09:06:02.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Joueur.cs",
+              "DocumentMoniker": "G:\\Interface 3\\C#\\ExercicesOO\\ExercicesOO\\ExercicesOO\\Joueur.cs",
+              "RelativeDocumentMoniker": "ExercicesOO\\Joueur.cs",
+              "ToolTip": "G:\\Interface 3\\C#\\ExercicesOO\\ExercicesOO\\ExercicesOO\\Joueur.cs",
+              "RelativeToolTip": "ExercicesOO\\Joueur.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T12:43:32.238Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

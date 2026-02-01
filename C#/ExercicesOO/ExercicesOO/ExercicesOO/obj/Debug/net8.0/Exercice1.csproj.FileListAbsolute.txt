@@ -1,0 +1,28 @@
+C:\Users\c.fersing\source\repos\ExercicesOO\ExercicesOO\obj\Debug\net8.0\Exercice1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c.fersing\source\repos\ExercicesOO\ExercicesOO\obj\Debug\net8.0\Exercice1.AssemblyInfoInputs.cache
+C:\Users\c.fersing\source\repos\ExercicesOO\ExercicesOO\obj\Debug\net8.0\Exercice1.AssemblyInfo.cs
+C:\Users\c.fersing\source\repos\ExercicesOO\ExercicesOO\obj\Debug\net8.0\Exercice1.csproj.CoreCompileInputs.cache
+C:\Users\c.fersing\source\repos\ExercicesOO\ExercicesOO\bin\Debug\net8.0\Exercice1.exe
+C:\Users\c.fersing\source\repos\ExercicesOO\ExercicesOO\bin\Debug\net8.0\Exercice1.deps.json
+C:\Users\c.fersing\source\repos\ExercicesOO\ExercicesOO\bin\Debug\net8.0\Exercice1.runtimeconfig.json
+C:\Users\c.fersing\source\repos\ExercicesOO\ExercicesOO\bin\Debug\net8.0\Exercice1.dll
+C:\Users\c.fersing\source\repos\ExercicesOO\ExercicesOO\bin\Debug\net8.0\Exercice1.pdb
+C:\Users\c.fersing\source\repos\ExercicesOO\ExercicesOO\obj\Debug\net8.0\Exercice1.dll
+C:\Users\c.fersing\source\repos\ExercicesOO\ExercicesOO\obj\Debug\net8.0\refint\Exercice1.dll
+C:\Users\c.fersing\source\repos\ExercicesOO\ExercicesOO\obj\Debug\net8.0\Exercice1.pdb
+C:\Users\c.fersing\source\repos\ExercicesOO\ExercicesOO\obj\Debug\net8.0\Exercice1.genruntimeconfig.cache
+C:\Users\c.fersing\source\repos\ExercicesOO\ExercicesOO\obj\Debug\net8.0\ref\Exercice1.dll
+G:\Interface 3\C#\ExercicesOO\ExercicesOO\ExercicesOO\bin\Debug\net8.0\Exercice1.exe
+G:\Interface 3\C#\ExercicesOO\ExercicesOO\ExercicesOO\bin\Debug\net8.0\Exercice1.deps.json
+G:\Interface 3\C#\ExercicesOO\ExercicesOO\ExercicesOO\bin\Debug\net8.0\Exercice1.runtimeconfig.json
+G:\Interface 3\C#\ExercicesOO\ExercicesOO\ExercicesOO\bin\Debug\net8.0\Exercice1.dll
+G:\Interface 3\C#\ExercicesOO\ExercicesOO\ExercicesOO\bin\Debug\net8.0\Exercice1.pdb
+G:\Interface 3\C#\ExercicesOO\ExercicesOO\ExercicesOO\obj\Debug\net8.0\Exercice1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Interface 3\C#\ExercicesOO\ExercicesOO\ExercicesOO\obj\Debug\net8.0\Exercice1.AssemblyInfoInputs.cache
+G:\Interface 3\C#\ExercicesOO\ExercicesOO\ExercicesOO\obj\Debug\net8.0\Exercice1.AssemblyInfo.cs
+G:\Interface 3\C#\ExercicesOO\ExercicesOO\ExercicesOO\obj\Debug\net8.0\Exercice1.csproj.CoreCompileInputs.cache
+G:\Interface 3\C#\ExercicesOO\ExercicesOO\ExercicesOO\obj\Debug\net8.0\Exercice1.dll
+G:\Interface 3\C#\ExercicesOO\ExercicesOO\ExercicesOO\obj\Debug\net8.0\refint\Exercice1.dll
+G:\Interface 3\C#\ExercicesOO\ExercicesOO\ExercicesOO\obj\Debug\net8.0\Exercice1.pdb
+G:\Interface 3\C#\ExercicesOO\ExercicesOO\ExercicesOO\obj\Debug\net8.0\Exercice1.genruntimeconfig.cache
+G:\Interface 3\C#\ExercicesOO\ExercicesOO\ExercicesOO\obj\Debug\net8.0\ref\Exercice1.dll
