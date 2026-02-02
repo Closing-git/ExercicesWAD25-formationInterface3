@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D088C73-C8B2-6169-D68C-0D9C4166A36F}|ProjectLibrary.ASPMVC\\ProjectLibrary.ASPMVC.csproj|c:\\xampp\\htdocs\\htdocs\\asp.net\\library project\\projectlibrary.aspmvc\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D088C73-C8B2-6169-D68C-0D9C4166A36F}|ProjectLibrary.ASPMVC\\ProjectLibrary.ASPMVC.csproj|solutionrelative:projectlibrary.aspmvc\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D088C73-C8B2-6169-D68C-0D9C4166A36F}|ProjectLibrary.ASPMVC\\ProjectLibrary.ASPMVC.csproj|c:\\xampp\\htdocs\\htdocs\\asp.net\\library project\\projectlibrary.aspmvc\\views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D088C73-C8B2-6169-D68C-0D9C4166A36F}|ProjectLibrary.ASPMVC\\ProjectLibrary.ASPMVC.csproj|solutionrelative:projectlibrary.aspmvc\\views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D088C73-C8B2-6169-D68C-0D9C4166A36F}|ProjectLibrary.ASPMVC\\ProjectLibrary.ASPMVC.csproj|c:\\xampp\\htdocs\\htdocs\\asp.net\\library project\\projectlibrary.aspmvc\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D088C73-C8B2-6169-D68C-0D9C4166A36F}|ProjectLibrary.ASPMVC\\ProjectLibrary.ASPMVC.csproj|solutionrelative:projectlibrary.aspmvc\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D088C73-C8B2-6169-D68C-0D9C4166A36F}|ProjectLibrary.ASPMVC\\ProjectLibrary.ASPMVC.csproj|c:\\xampp\\htdocs\\htdocs\\asp.net\\library project\\projectlibrary.aspmvc\\mappers\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D088C73-C8B2-6169-D68C-0D9C4166A36F}|ProjectLibrary.ASPMVC\\ProjectLibrary.ASPMVC.csproj|solutionrelative:projectlibrary.aspmvc\\mappers\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D088C73-C8B2-6169-D68C-0D9C4166A36F}|ProjectLibrary.ASPMVC\\ProjectLibrary.ASPMVC.csproj|c:\\xampp\\htdocs\\htdocs\\asp.net\\library project\\projectlibrary.aspmvc\\models\\book\\detailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D088C73-C8B2-6169-D68C-0D9C4166A36F}|ProjectLibrary.ASPMVC\\ProjectLibrary.ASPMVC.csproj|solutionrelative:projectlibrary.aspmvc\\models\\book\\detailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D088C73-C8B2-6169-D68C-0D9C4166A36F}|ProjectLibrary.ASPMVC\\ProjectLibrary.ASPMVC.csproj|c:\\xampp\\htdocs\\htdocs\\asp.net\\library project\\projectlibrary.aspmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D088C73-C8B2-6169-D68C-0D9C4166A36F}|ProjectLibrary.ASPMVC\\ProjectLibrary.ASPMVC.csproj|solutionrelative:projectlibrary.aspmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76496859-09AD-420A-9991-905B3B35FA4B}|ProjectLibrary.BLL\\ProjectLibrary.BLL.csproj|c:\\xampp\\htdocs\\htdocs\\asp.net\\library project\\projectlibrary.bll\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76496859-09AD-420A-9991-905B3B35FA4B}|ProjectLibrary.BLL\\ProjectLibrary.BLL.csproj|solutionrelative:projectlibrary.bll\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76496859-09AD-420A-9991-905B3B35FA4B}|ProjectLibrary.BLL\\ProjectLibrary.BLL.csproj|c:\\xampp\\htdocs\\htdocs\\asp.net\\library project\\projectlibrary.bll\\services\\userprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76496859-09AD-420A-9991-905B3B35FA4B}|ProjectLibrary.BLL\\ProjectLibrary.BLL.csproj|solutionrelative:projectlibrary.bll\\services\\userprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDDE7D1-F1E8-4F68-9CD8-88D724989491}|ProjectLibrary.Common\\ProjectLibrary.Common.csproj|c:\\xampp\\htdocs\\htdocs\\asp.net\\library project\\projectlibrary.common\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFDDE7D1-F1E8-4F68-9CD8-88D724989491}|ProjectLibrary.Common\\ProjectLibrary.Common.csproj|solutionrelative:projectlibrary.common\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDDE7D1-F1E8-4F68-9CD8-88D724989491}|ProjectLibrary.Common\\ProjectLibrary.Common.csproj|c:\\xampp\\htdocs\\htdocs\\asp.net\\library project\\projectlibrary.common\\projectlibrary.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DFDDE7D1-F1E8-4F68-9CD8-88D724989491}|ProjectLibrary.Common\\ProjectLibrary.Common.csproj|solutionrelative:projectlibrary.common\\projectlibrary.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76496859-09AD-420A-9991-905B3B35FA4B}|ProjectLibrary.BLL\\ProjectLibrary.BLL.csproj|c:\\xampp\\htdocs\\htdocs\\asp.net\\library project\\projectlibrary.bll\\projectlibrary.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{76496859-09AD-420A-9991-905B3B35FA4B}|ProjectLibrary.BLL\\ProjectLibrary.BLL.csproj|solutionrelative:projectlibrary.bll\\projectlibrary.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D088C73-C8B2-6169-D68C-0D9C4166A36F}|ProjectLibrary.ASPMVC\\ProjectLibrary.ASPMVC.csproj|c:\\xampp\\htdocs\\htdocs\\asp.net\\library project\\projectlibrary.aspmvc\\projectlibrary.aspmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8D088C73-C8B2-6169-D68C-0D9C4166A36F}|ProjectLibrary.ASPMVC\\ProjectLibrary.ASPMVC.csproj|solutionrelative:projectlibrary.aspmvc\\projectlibrary.aspmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 910,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project\\ProjectLibrary.ASPMVC\\Views\\Book\\Details.cshtml",
+              "RelativeDocumentMoniker": "ProjectLibrary.ASPMVC\\Views\\Book\\Details.cshtml",
+              "ToolTip": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project\\ProjectLibrary.ASPMVC\\Views\\Book\\Details.cshtml",
+              "RelativeToolTip": "ProjectLibrary.ASPMVC\\Views\\Book\\Details.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-02T14:45:34.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DetailsViewModel.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project\\ProjectLibrary.ASPMVC\\Models\\Book\\DetailsViewModel.cs",
+              "RelativeDocumentMoniker": "ProjectLibrary.ASPMVC\\Models\\Book\\DetailsViewModel.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project\\ProjectLibrary.ASPMVC\\Models\\Book\\DetailsViewModel.cs",
+              "RelativeToolTip": "ProjectLibrary.ASPMVC\\Models\\Book\\DetailsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T14:40:46.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project\\ProjectLibrary.ASPMVC\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectLibrary.ASPMVC\\Program.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project\\ProjectLibrary.ASPMVC\\Program.cs",
+              "RelativeToolTip": "ProjectLibrary.ASPMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T14:21:32.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mapper.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project\\ProjectLibrary.ASPMVC\\Mappers\\Mapper.cs",
+              "RelativeDocumentMoniker": "ProjectLibrary.ASPMVC\\Mappers\\Mapper.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project\\ProjectLibrary.ASPMVC\\Mappers\\Mapper.cs",
+              "RelativeToolTip": "ProjectLibrary.ASPMVC\\Mappers\\Mapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T14:16:50.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project\\ProjectLibrary.ASPMVC\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjectLibrary.ASPMVC\\Views\\Book\\Index.cshtml",
+              "ToolTip": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project\\ProjectLibrary.ASPMVC\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "ProjectLibrary.ASPMVC\\Views\\Book\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-02T13:46:24.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project\\ProjectLibrary.ASPMVC\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "ProjectLibrary.ASPMVC\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project\\ProjectLibrary.ASPMVC\\Controllers\\BookController.cs",
+              "RelativeToolTip": "ProjectLibrary.ASPMVC\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T13:37:56.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserProfileService.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project\\ProjectLibrary.BLL\\Services\\UserProfileService.cs",
+              "RelativeDocumentMoniker": "ProjectLibrary.BLL\\Services\\UserProfileService.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project\\ProjectLibrary.BLL\\Services\\UserProfileService.cs",
+              "RelativeToolTip": "ProjectLibrary.BLL\\Services\\UserProfileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T13:35:09.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project\\ProjectLibrary.BLL\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "ProjectLibrary.BLL\\Services\\BookService.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project\\ProjectLibrary.BLL\\Services\\BookService.cs",
+              "RelativeToolTip": "ProjectLibrary.BLL\\Services\\BookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T13:19:18.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project\\ProjectLibrary.Common\\Repositories\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "ProjectLibrary.Common\\Repositories\\IBookRepository.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project\\ProjectLibrary.Common\\Repositories\\IBookRepository.cs",
+              "RelativeToolTip": "ProjectLibrary.Common\\Repositories\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T13:05:25.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProjectLibrary.Common.csproj",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project\\ProjectLibrary.Common\\ProjectLibrary.Common.csproj",
+              "RelativeDocumentMoniker": "ProjectLibrary.Common\\ProjectLibrary.Common.csproj",
+              "ToolTip": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project\\ProjectLibrary.Common\\ProjectLibrary.Common.csproj",
+              "RelativeToolTip": "ProjectLibrary.Common\\ProjectLibrary.Common.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-02T13:04:24.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProjectLibrary.BLL.csproj",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project\\ProjectLibrary.BLL\\ProjectLibrary.BLL.csproj",
+              "RelativeDocumentMoniker": "ProjectLibrary.BLL\\ProjectLibrary.BLL.csproj",
+              "ToolTip": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project\\ProjectLibrary.BLL\\ProjectLibrary.BLL.csproj",
+              "RelativeToolTip": "ProjectLibrary.BLL\\ProjectLibrary.BLL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-02T13:02:46.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProjectLibrary.ASPMVC.csproj",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project\\ProjectLibrary.ASPMVC\\ProjectLibrary.ASPMVC.csproj",
+              "RelativeDocumentMoniker": "ProjectLibrary.ASPMVC\\ProjectLibrary.ASPMVC.csproj",
+              "ToolTip": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project\\ProjectLibrary.ASPMVC\\ProjectLibrary.ASPMVC.csproj",
+              "RelativeToolTip": "ProjectLibrary.ASPMVC\\ProjectLibrary.ASPMVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-02T13:02:58.247Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,3 +1,5 @@
+using ProjectLibrary.Common.Repositories;
+
 namespace ProjectLibrary.ASPMVC
 {
     public class Program
@@ -8,6 +10,13 @@ namespace ProjectLibrary.ASPMVC
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+
+            //Ajouts de nos services
+            builder.Services.AddScoped<IBookRepository<BLL.Entities.Book>, BLL.Services.BookService>();
+            //=> A la place d'un IBookRepo<BLL.Entities.Book>, on met un BLL Services
+
+            builder.Services.AddScoped<IBookRepository<DAL.Entities.Book>, DAL.Services.BookService>();
+
 
             var app = builder.Build();
 

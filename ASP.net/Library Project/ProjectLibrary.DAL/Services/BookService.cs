@@ -1,4 +1,5 @@
 ﻿using Microsoft.Data.SqlClient;
+using ProjectLibrary.Common.Repositories;
 using ProjectLibrary.DAL.Entities;
 using ProjectLibrary.DAL.Mappers;
 using System;
@@ -11,7 +12,8 @@ using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace ProjectLibrary.DAL.Services
 {
-    public class BookService
+
+    public class BookService : IBookRepository<Book>
     {
         private readonly string _connectionString = @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog = ProjectLibrary; Integrated Security = True";
         public IEnumerable<Book> Get()

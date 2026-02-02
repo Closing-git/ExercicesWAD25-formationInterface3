@@ -1,0 +1,35 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Book] (Table)
+       [dbo].[UserProfile] (Table)
+       Default Constraint: unnamed constraint on [dbo].[Book] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[Book] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[UserProfile] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[UserProfile] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[UserProfile] (Default Constraint)
+       [dbo].[CK_UserProfile_ReadingSkill] (Check Constraint)
+       [dbo].[CK_UserProfile_DisabledDate] (Check Constraint)
+       [dbo].[TR_Book_Delete] (Trigger)
+       [dbo].[TR_UserProfile_Delete] (Trigger)
+       [dbo].[SP_Book_Delete] (Procedure)
+       [dbo].[SP_Book_Get_All] (Procedure)
+       [dbo].[SP_Book_Get_ById] (Procedure)
+       [dbo].[SP_Book_Insert] (Procedure)
+       [dbo].[SP_Book_Update] (Procedure)
+       [dbo].[SP_UserProfile_Delete] (Procedure)
+       [dbo].[SP_UserProfile_Get_All] (Procedure)
+       [dbo].[SP_UserProfile_Get_ById] (Procedure)
+       [dbo].[SP_UserProfile_Insert] (Procedure)
+       [dbo].[SP_UserProfile_Update] (Procedure)
+
+** Supporting actions

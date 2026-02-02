@@ -1,5 +1,6 @@
 ﻿using ProjectLibrary.BLL.Entities;
 using ProjectLibrary.BLL.Mappers;
+using ProjectLibrary.Common.Repositories;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,12 +10,13 @@ using System.Threading.Tasks;
 namespace ProjectLibrary.BLL.Services
 {
     //Penser à ajouter une référence au DAL dans les dépendances 
-    public class BookService
+    public class BookService : IBookRepository<Book>
     {
-        //On récupère le book service du DAL
-        private readonly DAL.Services.BookService _dalService;
+        //On récupère le book service du DAL qui comporte l'interface IBookRepository (ce service peut être un TestService ou un APIService ou le "classique" DAlService)
+        //Grâce à du polymorphisme
+        private readonly IBookRepository<DAL.Entities.Book> _dalService;
 
-        public BookService(DAL.Services.BookService dalService)
+        public BookService(IBookRepository<DAL.Entities.Book> dalService)
         {
             _dalService = dalService;
         }

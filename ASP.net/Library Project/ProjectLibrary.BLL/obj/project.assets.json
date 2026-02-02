@@ -560,11 +560,22 @@
           "lib/netcoreapp2.0/_._": {}
         }
       },
+      "ProjectLibrary.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ProjectLibrary.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProjectLibrary.Common.dll": {}
+        }
+      },
       "ProjectLibrary.DAL/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "Microsoft.Data.SqlClient": "6.1.4"
+          "Microsoft.Data.SqlClient": "6.1.4",
+          "ProjectLibrary.Common": "1.0.0"
         },
         "compile": {
           "bin/placeholder/ProjectLibrary.DAL.dll": {}
@@ -1458,6 +1469,11 @@
         "version.txt"
       ]
     },
+    "ProjectLibrary.Common/1.0.0": {
+      "type": "project",
+      "path": "../ProjectLibrary.Common/ProjectLibrary.Common.csproj",
+      "msbuildProject": "../ProjectLibrary.Common/ProjectLibrary.Common.csproj"
+    },
     "ProjectLibrary.DAL/1.0.0": {
       "type": "project",
       "path": "../ProjectLibrary.DAL/ProjectLibrary.DAL.csproj",
@@ -1466,27 +1482,28 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "ProjectLibrary.Common >= 1.0.0",
       "ProjectLibrary.DAL >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\chloe\\.nuget\\packages\\": {},
+    "C:\\Users\\c.fersing\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Interface 3\\ASP.Net\\I3-WAD25-ASP-MVC-ProjectLibrary\\ProjectLibrary.BLL\\ProjectLibrary.BLL.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project\\ProjectLibrary.BLL\\ProjectLibrary.BLL.csproj",
       "projectName": "ProjectLibrary.BLL",
-      "projectPath": "G:\\Interface 3\\ASP.Net\\I3-WAD25-ASP-MVC-ProjectLibrary\\ProjectLibrary.BLL\\ProjectLibrary.BLL.csproj",
-      "packagesPath": "C:\\Users\\chloe\\.nuget\\packages\\",
-      "outputPath": "G:\\Interface 3\\ASP.Net\\I3-WAD25-ASP-MVC-ProjectLibrary\\ProjectLibrary.BLL\\obj\\",
+      "projectPath": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project\\ProjectLibrary.BLL\\ProjectLibrary.BLL.csproj",
+      "packagesPath": "C:\\Users\\c.fersing\\.nuget\\packages\\",
+      "outputPath": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project\\ProjectLibrary.BLL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\chloe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\c.fersing\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1501,8 +1518,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "G:\\Interface 3\\ASP.Net\\I3-WAD25-ASP-MVC-ProjectLibrary\\ProjectLibrary.DAL\\ProjectLibrary.DAL.csproj": {
-              "projectPath": "G:\\Interface 3\\ASP.Net\\I3-WAD25-ASP-MVC-ProjectLibrary\\ProjectLibrary.DAL\\ProjectLibrary.DAL.csproj"
+            "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project\\ProjectLibrary.Common\\ProjectLibrary.Common.csproj": {
+              "projectPath": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project\\ProjectLibrary.Common\\ProjectLibrary.Common.csproj"
+            },
+            "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project\\ProjectLibrary.DAL\\ProjectLibrary.DAL.csproj": {
+              "projectPath": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project\\ProjectLibrary.DAL\\ProjectLibrary.DAL.csproj"
             }
           }
         }
@@ -1538,7 +1558,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

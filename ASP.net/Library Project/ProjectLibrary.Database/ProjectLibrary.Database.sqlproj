@@ -67,6 +67,12 @@
     <Build Include="StoredProcedures\SP_Book_Delete.sql" />
     <Build Include="StoredProcedures\SP_Book_Get_All.sql" />
     <Build Include="StoredProcedures\SP_Book_Get_ById.sql" />
+    <Build Include="Tables\UserProfile.sql" />
+    <Build Include="StoredProcedures\SP_UserProfile_Get_All.sql" />
+    <Build Include="StoredProcedures\SP_UserProfile_Get_ById.sql" />
+    <Build Include="StoredProcedures\SP_UserProfile_Insert.sql" />
+    <Build Include="StoredProcedures\SP_UserProfile_Update.sql" />
+    <Build Include="StoredProcedures\SP_UserProfile_Delete.sql" />
   </ItemGroup>
   <ItemGroup>
     <PostDeploy Include="Scripts\Script.PostDeployment.Main.sql" />
@@ -74,5 +80,6 @@
   <ItemGroup>
     <None Include="Scripts\Script.PostDeployment.Book.sql" />
     <None Include="ProjectLibrary.Database.publish.xml" />
+    <None Include="Scripts\Script.PostDeployment.UserProfile.sql" />
   </ItemGroup>
 </Project>
