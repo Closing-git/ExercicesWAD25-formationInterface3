@@ -1,0 +1,11 @@
+﻿CREATE PROCEDURE [dbo].[SP_Book_Delete]
+	@bookId UNIQUEIDENTIFIER
+AS
+BEGIN
+
+	SET NOCOUNT ON
+
+	DELETE FROM [Book] 
+		WHERE [BookId] = @bookId
+
+END

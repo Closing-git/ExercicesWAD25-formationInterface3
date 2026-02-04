@@ -1,0 +1,59 @@
+﻿@using ProjectLibrary.BLL.Entities
+@using ProjectLibrary.Common.Repositories
+@model ProjectLibrary.ASPMVC.Models.UserProfile.EditForm
+
+@* Pour injecter une dépendance dans le view et utiliser ses données *@
+@inject IUserProfileRepository<UserProfile> userProfileService
+@{
+    ViewData["Title"] = "Edit";
+
+    //VERSION 1 POUR RECUPERER DES DONNES
+    // var nom = ViewData["nom"];
+    // var prenom = ViewData["prenom"];
+
+    //VERSION 2 POUR RECUPERER DES DONNES (en utilisant l'injection de dépendance ligne 6)
+    Guid userProfileId = Guid.Parse(ViewContext.RouteData.Values["id"]!.ToString());
+    UserProfile bllEntity = userProfileService.Get(userProfileId);
+}
+
+<h1>Edit</h1>
+
+<h4>EditForm</h4>
+
+<h5>@(bllEntity.FirstName)</h5>
+@* <h5>@(prenom)</h5> *@
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Biography" class="control-label"></label>
+                <input asp-for="Biography" class="form-control" />
+                <span asp-validation-for="Biography" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ReadingSkill" class="control-label"></label>
+                <input asp-for="ReadingSkill" class="form-control" />
+                <span asp-validation-for="ReadingSkill" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="NewsLetterSubscribed" /> @Html.DisplayNameFor(model => model.NewsLetterSubscribed)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

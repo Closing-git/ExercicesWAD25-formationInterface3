@@ -1,0 +1,45 @@
+G:\Interface 3\ASP.Net\I3-WAD25-ASP-MVC-ProjectLibrary\ProjectLibrary.DAL\obj\Debug\net8.0\ProjectLibrary.DAL.csproj.AssemblyReference.cache
+G:\Interface 3\ASP.Net\I3-WAD25-ASP-MVC-ProjectLibrary\ProjectLibrary.DAL\obj\Debug\net8.0\ProjectLibrary.DAL.GeneratedMSBuildEditorConfig.editorconfig
+G:\Interface 3\ASP.Net\I3-WAD25-ASP-MVC-ProjectLibrary\ProjectLibrary.DAL\obj\Debug\net8.0\ProjectLibrary.DAL.AssemblyInfoInputs.cache
+G:\Interface 3\ASP.Net\I3-WAD25-ASP-MVC-ProjectLibrary\ProjectLibrary.DAL\obj\Debug\net8.0\ProjectLibrary.DAL.AssemblyInfo.cs
+G:\Interface 3\ASP.Net\I3-WAD25-ASP-MVC-ProjectLibrary\ProjectLibrary.DAL\obj\Debug\net8.0\ProjectLibrary.DAL.csproj.CoreCompileInputs.cache
+G:\Interface 3\ASP.Net\I3-WAD25-ASP-MVC-ProjectLibrary\ProjectLibrary.DAL\obj\Debug\net8.0\ProjectLibrary.DAL.sourcelink.json
+G:\Interface 3\ASP.Net\I3-WAD25-ASP-MVC-ProjectLibrary\ProjectLibrary.DAL\bin\Debug\net8.0\ProjectLibrary.DAL.deps.json
+G:\Interface 3\ASP.Net\I3-WAD25-ASP-MVC-ProjectLibrary\ProjectLibrary.DAL\bin\Debug\net8.0\ProjectLibrary.DAL.dll
+G:\Interface 3\ASP.Net\I3-WAD25-ASP-MVC-ProjectLibrary\ProjectLibrary.DAL\bin\Debug\net8.0\ProjectLibrary.DAL.pdb
+G:\Interface 3\ASP.Net\I3-WAD25-ASP-MVC-ProjectLibrary\ProjectLibrary.DAL\obj\Debug\net8.0\ProjectLibrary.DAL.dll
+G:\Interface 3\ASP.Net\I3-WAD25-ASP-MVC-ProjectLibrary\ProjectLibrary.DAL\obj\Debug\net8.0\refint\ProjectLibrary.DAL.dll
+G:\Interface 3\ASP.Net\I3-WAD25-ASP-MVC-ProjectLibrary\ProjectLibrary.DAL\obj\Debug\net8.0\ProjectLibrary.DAL.pdb
+G:\Interface 3\ASP.Net\I3-WAD25-ASP-MVC-ProjectLibrary\ProjectLibrary.DAL\obj\Debug\net8.0\ref\ProjectLibrary.DAL.dll
+C:\xampp\htdocs\htdocs\ASP.net\Library Project\ProjectLibrary.DAL\bin\Debug\net8.0\ProjectLibrary.DAL.deps.json
+C:\xampp\htdocs\htdocs\ASP.net\Library Project\ProjectLibrary.DAL\bin\Debug\net8.0\ProjectLibrary.DAL.dll
+C:\xampp\htdocs\htdocs\ASP.net\Library Project\ProjectLibrary.DAL\bin\Debug\net8.0\ProjectLibrary.DAL.pdb
+C:\xampp\htdocs\htdocs\ASP.net\Library Project\ProjectLibrary.DAL\bin\Debug\net8.0\ProjectLibrary.Common.dll
+C:\xampp\htdocs\htdocs\ASP.net\Library Project\ProjectLibrary.DAL\bin\Debug\net8.0\ProjectLibrary.Common.pdb
+C:\xampp\htdocs\htdocs\ASP.net\Library Project\ProjectLibrary.DAL\obj\Debug\net8.0\ProjectLibrary.DAL.csproj.AssemblyReference.cache
+C:\xampp\htdocs\htdocs\ASP.net\Library Project\ProjectLibrary.DAL\obj\Debug\net8.0\ProjectLibrary.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\htdocs\ASP.net\Library Project\ProjectLibrary.DAL\obj\Debug\net8.0\ProjectLibrary.DAL.AssemblyInfoInputs.cache
+C:\xampp\htdocs\htdocs\ASP.net\Library Project\ProjectLibrary.DAL\obj\Debug\net8.0\ProjectLibrary.DAL.AssemblyInfo.cs
+C:\xampp\htdocs\htdocs\ASP.net\Library Project\ProjectLibrary.DAL\obj\Debug\net8.0\ProjectLibrary.DAL.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\htdocs\ASP.net\Library Project\ProjectLibrary.DAL\obj\Debug\net8.0\ProjectLibrary.DAL.sourcelink.json
+C:\xampp\htdocs\htdocs\ASP.net\Library Project\ProjectLibrary.DAL\obj\Debug\net8.0\ProjectL.A8B06B0A.Up2Date
+C:\xampp\htdocs\htdocs\ASP.net\Library Project\ProjectLibrary.DAL\obj\Debug\net8.0\ProjectLibrary.DAL.dll
+C:\xampp\htdocs\htdocs\ASP.net\Library Project\ProjectLibrary.DAL\obj\Debug\net8.0\refint\ProjectLibrary.DAL.dll
+C:\xampp\htdocs\htdocs\ASP.net\Library Project\ProjectLibrary.DAL\obj\Debug\net8.0\ProjectLibrary.DAL.pdb
+C:\xampp\htdocs\htdocs\ASP.net\Library Project\ProjectLibrary.DAL\obj\Debug\net8.0\ref\ProjectLibrary.DAL.dll
+C:\xampp\htdocs\htdocs\ASP.net\Library Project - With Fake Service\ProjectLibrary.DAL\bin\Debug\net8.0\ProjectLibrary.DAL.deps.json
+C:\xampp\htdocs\htdocs\ASP.net\Library Project - With Fake Service\ProjectLibrary.DAL\bin\Debug\net8.0\ProjectLibrary.DAL.dll
+C:\xampp\htdocs\htdocs\ASP.net\Library Project - With Fake Service\ProjectLibrary.DAL\bin\Debug\net8.0\ProjectLibrary.DAL.pdb
+C:\xampp\htdocs\htdocs\ASP.net\Library Project - With Fake Service\ProjectLibrary.DAL\bin\Debug\net8.0\ProjectLibrary.Common.dll
+C:\xampp\htdocs\htdocs\ASP.net\Library Project - With Fake Service\ProjectLibrary.DAL\bin\Debug\net8.0\ProjectLibrary.Common.pdb
+C:\xampp\htdocs\htdocs\ASP.net\Library Project - With Fake Service\ProjectLibrary.DAL\obj\Debug\net8.0\ProjectLibrary.DAL.csproj.AssemblyReference.cache
+C:\xampp\htdocs\htdocs\ASP.net\Library Project - With Fake Service\ProjectLibrary.DAL\obj\Debug\net8.0\ProjectLibrary.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\htdocs\ASP.net\Library Project - With Fake Service\ProjectLibrary.DAL\obj\Debug\net8.0\ProjectLibrary.DAL.AssemblyInfoInputs.cache
+C:\xampp\htdocs\htdocs\ASP.net\Library Project - With Fake Service\ProjectLibrary.DAL\obj\Debug\net8.0\ProjectLibrary.DAL.AssemblyInfo.cs
+C:\xampp\htdocs\htdocs\ASP.net\Library Project - With Fake Service\ProjectLibrary.DAL\obj\Debug\net8.0\ProjectLibrary.DAL.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\htdocs\ASP.net\Library Project - With Fake Service\ProjectLibrary.DAL\obj\Debug\net8.0\ProjectLibrary.DAL.sourcelink.json
+C:\xampp\htdocs\htdocs\ASP.net\Library Project - With Fake Service\ProjectLibrary.DAL\obj\Debug\net8.0\ProjectL.A8B06B0A.Up2Date
+C:\xampp\htdocs\htdocs\ASP.net\Library Project - With Fake Service\ProjectLibrary.DAL\obj\Debug\net8.0\ProjectLibrary.DAL.dll
+C:\xampp\htdocs\htdocs\ASP.net\Library Project - With Fake Service\ProjectLibrary.DAL\obj\Debug\net8.0\refint\ProjectLibrary.DAL.dll
+C:\xampp\htdocs\htdocs\ASP.net\Library Project - With Fake Service\ProjectLibrary.DAL\obj\Debug\net8.0\ProjectLibrary.DAL.pdb
+C:\xampp\htdocs\htdocs\ASP.net\Library Project - With Fake Service\ProjectLibrary.DAL\obj\Debug\net8.0\ref\ProjectLibrary.DAL.dll

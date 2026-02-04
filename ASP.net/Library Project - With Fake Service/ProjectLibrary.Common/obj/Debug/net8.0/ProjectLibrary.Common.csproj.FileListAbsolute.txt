@@ -1,0 +1,24 @@
+C:\xampp\htdocs\htdocs\ASP.net\Library Project\ProjectLibrary.Common\bin\Debug\net8.0\ProjectLibrary.Common.deps.json
+C:\xampp\htdocs\htdocs\ASP.net\Library Project\ProjectLibrary.Common\bin\Debug\net8.0\ProjectLibrary.Common.dll
+C:\xampp\htdocs\htdocs\ASP.net\Library Project\ProjectLibrary.Common\bin\Debug\net8.0\ProjectLibrary.Common.pdb
+C:\xampp\htdocs\htdocs\ASP.net\Library Project\ProjectLibrary.Common\obj\Debug\net8.0\ProjectLibrary.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\htdocs\ASP.net\Library Project\ProjectLibrary.Common\obj\Debug\net8.0\ProjectLibrary.Common.AssemblyInfoInputs.cache
+C:\xampp\htdocs\htdocs\ASP.net\Library Project\ProjectLibrary.Common\obj\Debug\net8.0\ProjectLibrary.Common.AssemblyInfo.cs
+C:\xampp\htdocs\htdocs\ASP.net\Library Project\ProjectLibrary.Common\obj\Debug\net8.0\ProjectLibrary.Common.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\htdocs\ASP.net\Library Project\ProjectLibrary.Common\obj\Debug\net8.0\ProjectLibrary.Common.sourcelink.json
+C:\xampp\htdocs\htdocs\ASP.net\Library Project\ProjectLibrary.Common\obj\Debug\net8.0\ProjectLibrary.Common.dll
+C:\xampp\htdocs\htdocs\ASP.net\Library Project\ProjectLibrary.Common\obj\Debug\net8.0\refint\ProjectLibrary.Common.dll
+C:\xampp\htdocs\htdocs\ASP.net\Library Project\ProjectLibrary.Common\obj\Debug\net8.0\ProjectLibrary.Common.pdb
+C:\xampp\htdocs\htdocs\ASP.net\Library Project\ProjectLibrary.Common\obj\Debug\net8.0\ref\ProjectLibrary.Common.dll
+C:\xampp\htdocs\htdocs\ASP.net\Library Project - With Fake Service\ProjectLibrary.Common\bin\Debug\net8.0\ProjectLibrary.Common.deps.json
+C:\xampp\htdocs\htdocs\ASP.net\Library Project - With Fake Service\ProjectLibrary.Common\bin\Debug\net8.0\ProjectLibrary.Common.dll
+C:\xampp\htdocs\htdocs\ASP.net\Library Project - With Fake Service\ProjectLibrary.Common\bin\Debug\net8.0\ProjectLibrary.Common.pdb
+C:\xampp\htdocs\htdocs\ASP.net\Library Project - With Fake Service\ProjectLibrary.Common\obj\Debug\net8.0\ProjectLibrary.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\htdocs\ASP.net\Library Project - With Fake Service\ProjectLibrary.Common\obj\Debug\net8.0\ProjectLibrary.Common.AssemblyInfoInputs.cache
+C:\xampp\htdocs\htdocs\ASP.net\Library Project - With Fake Service\ProjectLibrary.Common\obj\Debug\net8.0\ProjectLibrary.Common.AssemblyInfo.cs
+C:\xampp\htdocs\htdocs\ASP.net\Library Project - With Fake Service\ProjectLibrary.Common\obj\Debug\net8.0\ProjectLibrary.Common.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\htdocs\ASP.net\Library Project - With Fake Service\ProjectLibrary.Common\obj\Debug\net8.0\ProjectLibrary.Common.sourcelink.json
+C:\xampp\htdocs\htdocs\ASP.net\Library Project - With Fake Service\ProjectLibrary.Common\obj\Debug\net8.0\ProjectLibrary.Common.dll
+C:\xampp\htdocs\htdocs\ASP.net\Library Project - With Fake Service\ProjectLibrary.Common\obj\Debug\net8.0\refint\ProjectLibrary.Common.dll
+C:\xampp\htdocs\htdocs\ASP.net\Library Project - With Fake Service\ProjectLibrary.Common\obj\Debug\net8.0\ProjectLibrary.Common.pdb
+C:\xampp\htdocs\htdocs\ASP.net\Library Project - With Fake Service\ProjectLibrary.Common\obj\Debug\net8.0\ref\ProjectLibrary.Common.dll

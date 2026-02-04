@@ -1,0 +1,23 @@
+﻿** Met en surbrillance
+     Tables qui seront recréées avec les données migrées
+       Aucun
+     Index ordonnés en clusters à supprimer
+       Aucun
+     Index ordonnés en clusters à créer.
+       Aucun
+     Problèmes de données possibles
+       Aucun
+
+** Actions de l'utilisateur
+     Créer
+       [dbo].[Book] (Table)
+       Contrainte par défaut: contrainte sans nom sur [dbo].[Book] (Contrainte par défaut)
+       Contrainte par défaut: contrainte sans nom sur [dbo].[Book] (Contrainte par défaut)
+       [dbo].[TR_Book_Delete] (Déclencheur)
+       [dbo].[SP_Book_Delete] (Procédure)
+       [dbo].[SP_Book_Get_All] (Procédure)
+       [dbo].[SP_Book_Get_ById] (Procédure)
+       [dbo].[SP_Book_Insert] (Procédure)
+       [dbo].[SP_Book_Update] (Procédure)
+
+** Actions de support

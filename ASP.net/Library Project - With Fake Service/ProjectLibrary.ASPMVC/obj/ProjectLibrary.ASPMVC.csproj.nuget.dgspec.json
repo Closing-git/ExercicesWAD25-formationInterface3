@@ -1,0 +1,304 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project - With Fake Service\\ProjectLibrary.ASPMVC\\ProjectLibrary.ASPMVC.csproj": {}
+  },
+  "projects": {
+    "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project - With Fake Service\\ProjectLibrary.ASPMVC\\ProjectLibrary.ASPMVC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project - With Fake Service\\ProjectLibrary.ASPMVC\\ProjectLibrary.ASPMVC.csproj",
+        "projectName": "ProjectLibrary.ASPMVC",
+        "projectPath": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project - With Fake Service\\ProjectLibrary.ASPMVC\\ProjectLibrary.ASPMVC.csproj",
+        "packagesPath": "C:\\Users\\c.fersing\\.nuget\\packages\\",
+        "outputPath": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project - With Fake Service\\ProjectLibrary.ASPMVC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\c.fersing\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project - With Fake Service\\ProjectLibrary.BLL\\ProjectLibrary.BLL.csproj": {
+                "projectPath": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project - With Fake Service\\ProjectLibrary.BLL\\ProjectLibrary.BLL.csproj"
+              },
+              "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project - With Fake Service\\ProjectLibrary.Common\\ProjectLibrary.Common.csproj": {
+                "projectPath": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project - With Fake Service\\ProjectLibrary.Common\\ProjectLibrary.Common.csproj"
+              },
+              "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project - With Fake Service\\ProjectLibrary.DAL\\ProjectLibrary.DAL.csproj": {
+                "projectPath": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project - With Fake Service\\ProjectLibrary.DAL\\ProjectLibrary.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.23, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project - With Fake Service\\ProjectLibrary.BLL\\ProjectLibrary.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project - With Fake Service\\ProjectLibrary.BLL\\ProjectLibrary.BLL.csproj",
+        "projectName": "ProjectLibrary.BLL",
+        "projectPath": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project - With Fake Service\\ProjectLibrary.BLL\\ProjectLibrary.BLL.csproj",
+        "packagesPath": "C:\\Users\\c.fersing\\.nuget\\packages\\",
+        "outputPath": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project - With Fake Service\\ProjectLibrary.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\c.fersing\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project - With Fake Service\\ProjectLibrary.Common\\ProjectLibrary.Common.csproj": {
+                "projectPath": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project - With Fake Service\\ProjectLibrary.Common\\ProjectLibrary.Common.csproj"
+              },
+              "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project - With Fake Service\\ProjectLibrary.DAL\\ProjectLibrary.DAL.csproj": {
+                "projectPath": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project - With Fake Service\\ProjectLibrary.DAL\\ProjectLibrary.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project - With Fake Service\\ProjectLibrary.Common\\ProjectLibrary.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project - With Fake Service\\ProjectLibrary.Common\\ProjectLibrary.Common.csproj",
+        "projectName": "ProjectLibrary.Common",
+        "projectPath": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project - With Fake Service\\ProjectLibrary.Common\\ProjectLibrary.Common.csproj",
+        "packagesPath": "C:\\Users\\c.fersing\\.nuget\\packages\\",
+        "outputPath": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project - With Fake Service\\ProjectLibrary.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\c.fersing\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project - With Fake Service\\ProjectLibrary.DAL\\ProjectLibrary.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project - With Fake Service\\ProjectLibrary.DAL\\ProjectLibrary.DAL.csproj",
+        "projectName": "ProjectLibrary.DAL",
+        "projectPath": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project - With Fake Service\\ProjectLibrary.DAL\\ProjectLibrary.DAL.csproj",
+        "packagesPath": "C:\\Users\\c.fersing\\.nuget\\packages\\",
+        "outputPath": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project - With Fake Service\\ProjectLibrary.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\c.fersing\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project - With Fake Service\\ProjectLibrary.Common\\ProjectLibrary.Common.csproj": {
+                "projectPath": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Library Project - With Fake Service\\ProjectLibrary.Common\\ProjectLibrary.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[6.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
