@@ -6,7 +6,8 @@
         public static Models.Book.ListItemViewModel ToListItem(this BLL.Entities.Book entity)
         {
             if (entity is null) throw new ArgumentNullException(nameof(entity));
-            return new Models.Book.ListItemViewModel() { 
+            return new Models.Book.ListItemViewModel()
+            {
                 BookId = entity.BookId,
                 Title = entity.Title,
                 Author = entity.Author,
@@ -33,7 +34,7 @@
             return new BLL.Entities.Book(
                 entity.Title,
                 entity.Author,
-                entity.ISBN, 
+                entity.ISBN,
                 entity.ReleaseDate);
         }
 
@@ -59,7 +60,7 @@
             };
         }
 
-        public static Models.Book.DeleteViewModel ToDelete (this BLL.Entities.Book entity)
+        public static Models.Book.DeleteViewModel ToDelete(this BLL.Entities.Book entity)
         {
             if (entity is null) throw new ArgumentNullException(nameof(entity));
             return new Models.Book.DeleteViewModel()
@@ -118,7 +119,7 @@
                 null);*/
             return new BLL.Entities.UserProfile(
                 entity.Biography,
-                entity.ReadingSkill, 
+                entity.ReadingSkill,
                 entity.NewsLetterSubscribed);
         }
         public static Models.UserProfile.EditForm ToEdit(this BLL.Entities.UserProfile entity)
@@ -141,6 +142,27 @@
                 FirstName = entity.FirstName
             };
         }
+        #endregion
+
+        #region User
+
+        public static BLL.Entities.User ToBLL(this Models.Auth.RegisterForm entity)
+        {
+            if (entity is null) throw new ArgumentNullException(nameof(entity));
+            return new BLL.Entities.User(
+                entity.Email,
+                entity.Password
+            );
+        }
+
+        public static BLL.Entities.User ToBLL(this Models.Auth.LoginForm entity)
+        {
+            return new BLL.Entities.User(
+                entity.Email,
+                entity.Password
+            );
+        }
+
         #endregion
     }
 }

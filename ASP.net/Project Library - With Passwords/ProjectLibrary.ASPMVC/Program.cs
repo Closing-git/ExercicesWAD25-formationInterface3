@@ -9,6 +9,26 @@ namespace ProjectLibrary.ASPMVC
         {
             var builder = WebApplication.CreateBuilder(args);
 
+            //POUR AVOIR DES SESSIONS (+ lignes en après le build())
+            builder.Services.AddDistributedMemoryCache();
+            builder.Services.AddSession(option=>
+            {
+                option.Cookie.Name = "LibraryProject.Session";
+                option.Cookie.HttpOnly = true;
+                option.IdleTimeout = TimeSpan.FromMinutes(2);
+                option.Cookie.IsEssential = true;
+
+            });
+
+            //Config pour respecter les RGPD
+            builder.Services.Configure<CookiePolicyOptions>(
+                options =>
+                {
+                    options.CheckConsentNeeded = context => true;
+                    options.MinimumSameSitePolicy = SameSiteMode.None;
+                    options.Secure = CookieSecurePolicy.Always;
+                });
+
             // Récupération de la connectionstring du fichier appsettings.json
             string connectionString = builder.Configuration.GetConnectionString("ProjectLibrary.Database")!;
 
@@ -26,6 +46,11 @@ namespace ProjectLibrary.ASPMVC
             builder.Services.AddScoped<IBookRepository<DAL.Entities.Book>, DAL.Services.BookService>();
             builder.Services.AddScoped<IUserProfileRepository<BLL.Entities.UserProfile>, BLL.Services.UserProfileService>();
             builder.Services.AddScoped<IUserProfileRepository<DAL.Entities.UserProfile>, DAL.Services.UserProfileService>();
+            builder.Services.AddScoped<IUserRepository<DAL.Entities.User>, DAL.Services.UserService>();
+            builder.Services.AddScoped<IUserRepository<BLL.Entities.User>, BLL.Services.UserService>();
+
+
+
 
             //En cas d'utilisation d'un FakeService permettant de ne pas avoir l'accès en DB
             //builder.Services.AddScoped<IBookRepository<DAL.Entities.Book>, DAL.Services.FakeBookService>();
@@ -39,6 +64,10 @@ namespace ProjectLibrary.ASPMVC
                 // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts();
             }
+
+            //AJOUT DE LA SESSION ET LES COOKIES
+            app.UseSession();
+            app.UseCookiePolicy();
 
             app.UseHttpsRedirection();
             app.UseStaticFiles();
