@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\ProjectLibrary - With Sessions and Handlers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D088C73-C8B2-6169-D68C-0D9C4166A36F}|ProjectLibrary.ASPMVC\\ProjectLibrary.ASPMVC.csproj|c:\\xampp\\htdocs\\htdocs\\asp.net\\projectlibrary - with sessions and handlers\\projectlibrary.aspmvc\\views\\rent\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D088C73-C8B2-6169-D68C-0D9C4166A36F}|ProjectLibrary.ASPMVC\\ProjectLibrary.ASPMVC.csproj|solutionrelative:projectlibrary.aspmvc\\views\\rent\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D088C73-C8B2-6169-D68C-0D9C4166A36F}|ProjectLibrary.ASPMVC\\ProjectLibrary.ASPMVC.csproj|c:\\xampp\\htdocs\\htdocs\\asp.net\\projectlibrary - with sessions and handlers\\projectlibrary.aspmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D088C73-C8B2-6169-D68C-0D9C4166A36F}|ProjectLibrary.ASPMVC\\ProjectLibrary.ASPMVC.csproj|solutionrelative:projectlibrary.aspmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D088C73-C8B2-6169-D68C-0D9C4166A36F}|ProjectLibrary.ASPMVC\\ProjectLibrary.ASPMVC.csproj|c:\\xampp\\htdocs\\htdocs\\asp.net\\projectlibrary - with sessions and handlers\\projectlibrary.aspmvc\\views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D088C73-C8B2-6169-D68C-0D9C4166A36F}|ProjectLibrary.ASPMVC\\ProjectLibrary.ASPMVC.csproj|solutionrelative:projectlibrary.aspmvc\\views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D088C73-C8B2-6169-D68C-0D9C4166A36F}|ProjectLibrary.ASPMVC\\ProjectLibrary.ASPMVC.csproj|c:\\xampp\\htdocs\\htdocs\\asp.net\\projectlibrary - with sessions and handlers\\projectlibrary.aspmvc\\controllers\\rentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D088C73-C8B2-6169-D68C-0D9C4166A36F}|ProjectLibrary.ASPMVC\\ProjectLibrary.ASPMVC.csproj|solutionrelative:projectlibrary.aspmvc\\controllers\\rentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D088C73-C8B2-6169-D68C-0D9C4166A36F}|ProjectLibrary.ASPMVC\\ProjectLibrary.ASPMVC.csproj|c:\\xampp\\htdocs\\htdocs\\asp.net\\projectlibrary - with sessions and handlers\\projectlibrary.aspmvc\\handlers\\rentsessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D088C73-C8B2-6169-D68C-0D9C4166A36F}|ProjectLibrary.ASPMVC\\ProjectLibrary.ASPMVC.csproj|solutionrelative:projectlibrary.aspmvc\\handlers\\rentsessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1224,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\ProjectLibrary - With Sessions and Handlers\\ProjectLibrary.ASPMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProjectLibrary.ASPMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\ProjectLibrary - With Sessions and Handlers\\ProjectLibrary.ASPMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProjectLibrary.ASPMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwDoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-05T15:04:26.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\ProjectLibrary - With Sessions and Handlers\\ProjectLibrary.ASPMVC\\Views\\Book\\Details.cshtml",
+              "RelativeDocumentMoniker": "ProjectLibrary.ASPMVC\\Views\\Book\\Details.cshtml",
+              "ToolTip": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\ProjectLibrary - With Sessions and Handlers\\ProjectLibrary.ASPMVC\\Views\\Book\\Details.cshtml",
+              "RelativeToolTip": "ProjectLibrary.ASPMVC\\Views\\Book\\Details.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwBQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-05T14:25:48.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RentController.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\ProjectLibrary - With Sessions and Handlers\\ProjectLibrary.ASPMVC\\Controllers\\RentController.cs",
+              "RelativeDocumentMoniker": "ProjectLibrary.ASPMVC\\Controllers\\RentController.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\ProjectLibrary - With Sessions and Handlers\\ProjectLibrary.ASPMVC\\Controllers\\RentController.cs",
+              "RelativeToolTip": "ProjectLibrary.ASPMVC\\Controllers\\RentController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAuwEYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T13:33:14.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RentSessionManager.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\ProjectLibrary - With Sessions and Handlers\\ProjectLibrary.ASPMVC\\Handlers\\RentSessionManager.cs",
+              "RelativeDocumentMoniker": "ProjectLibrary.ASPMVC\\Handlers\\RentSessionManager.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\ProjectLibrary - With Sessions and Handlers\\ProjectLibrary.ASPMVC\\Handlers\\RentSessionManager.cs",
+              "RelativeToolTip": "ProjectLibrary.ASPMVC\\Handlers\\RentSessionManager.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T13:44:21.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\ProjectLibrary - With Sessions and Handlers\\ProjectLibrary.ASPMVC\\Views\\Rent\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjectLibrary.ASPMVC\\Views\\Rent\\Index.cshtml",
+              "ToolTip": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\ProjectLibrary - With Sessions and Handlers\\ProjectLibrary.ASPMVC\\Views\\Rent\\Index.cshtml",
+              "RelativeToolTip": "ProjectLibrary.ASPMVC\\Views\\Rent\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-05T13:09:18.893Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

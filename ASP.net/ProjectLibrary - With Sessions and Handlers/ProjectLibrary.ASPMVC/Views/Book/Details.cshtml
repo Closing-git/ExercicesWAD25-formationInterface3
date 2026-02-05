@@ -1,0 +1,62 @@
+﻿@model ProjectLibrary.ASPMVC.Models.Book.DetailsViewModel
+@using ProjectLibrary.ASPMVC.Handlers
+@inject RentSessionManager rentSession
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>DetailsViewModel</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Title)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Author)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Author)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ISBN)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ISBN)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ReleaseDate)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ReleaseDate)
+        </dd>
+    </dl>
+    @{
+        var book = rentSession.Basket.SingleOrDefault(item => item.BookId == Model.BookId);
+        if (book is null)
+        {
+            <form method="post" asp-action="Rent" asp-controller="Rent" asp-route-id="@Model.BookId">
+                <button type="submit" class="btn btn-secondary">Emprunter</button>
+            </form>
+        }
+        else
+        {
+            <form method="post" asp-action="Remove" asp-controller="Rent" asp-route-id="@Model.BookId">
+                <button class="btn btn-danger" type="submit">Retirer</button>
+            </form>
+        }
+    }
+
+
+
+
+</div>
+<div>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.BookId }) |
+    <a asp-action="Index">Back to List</a>
+</div>
