@@ -1,0 +1,13 @@
+﻿@model IEnumerable<ProjectLibrary.BLL.Entities.Category>
+
+@{
+    //Premier argument du SelectListItem = Le txt qui s'affiche, deuxième argument sa valeur
+    // Ici, 1er bll.CategoryName, 2° bll.CategoryId.ToString()
+    IEnumerable<SelectListItem> options = Model.Select(bll => new SelectListItem(bll.CategoryName, bll.CategoryId.ToString()));
+}
+<h1>Quelle catégorie voulez-vous retirer ?</h1>
+
+<form method="post">
+    <select name="categoryId" asp-items="options"></select>
+    <button type="submit">Retirer</button>
+</form>

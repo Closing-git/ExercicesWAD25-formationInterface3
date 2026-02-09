@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Project Library - With Passwords\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4154EA04-CE53-41BA-9BCA-B850B5496320}|ProjectLibrary.DAL\\ProjectLibrary.DAL.csproj|c:\\xampp\\htdocs\\htdocs\\asp.net\\project library - with passwords\\projectlibrary.dal\\projectlibrary.dal.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4154EA04-CE53-41BA-9BCA-B850B5496320}|ProjectLibrary.DAL\\ProjectLibrary.DAL.csproj|solutionrelative:projectlibrary.dal\\projectlibrary.dal.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8D088C73-C8B2-6169-D68C-0D9C4166A36F}|ProjectLibrary.ASPMVC\\ProjectLibrary.ASPMVC.csproj|c:\\xampp\\htdocs\\htdocs\\asp.net\\project library - with passwords\\projectlibrary.aspmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D088C73-C8B2-6169-D68C-0D9C4166A36F}|ProjectLibrary.ASPMVC\\ProjectLibrary.ASPMVC.csproj|solutionrelative:projectlibrary.aspmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -88,12 +92,24 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 1224,
-          "SelectedChildIndex": 3,
+          "DockedWidth": 1323,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "ProjectLibrary.DAL",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Project Library - With Passwords\\ProjectLibrary.DAL\\ProjectLibrary.DAL.csproj",
+              "RelativeDocumentMoniker": "ProjectLibrary.DAL\\ProjectLibrary.DAL.csproj",
+              "ToolTip": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Project Library - With Passwords\\ProjectLibrary.DAL\\ProjectLibrary.DAL.csproj",
+              "RelativeToolTip": "ProjectLibrary.DAL\\ProjectLibrary.DAL.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-09T15:11:34.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "_CookieConsentPartial.cshtml",
               "DocumentMoniker": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Project Library - With Passwords\\ProjectLibrary.ASPMVC\\Views\\Shared\\_CookieConsentPartial.cshtml",
               "RelativeDocumentMoniker": "ProjectLibrary.ASPMVC\\Views\\Shared\\_CookieConsentPartial.cshtml",
@@ -101,12 +117,11 @@
               "RelativeToolTip": "ProjectLibrary.ASPMVC\\Views\\Shared\\_CookieConsentPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-04T14:40:15.743Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-04T14:40:15.743Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Project Library - With Passwords\\ProjectLibrary.ASPMVC\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "ProjectLibrary.ASPMVC\\Controllers\\AuthController.cs",
@@ -118,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Mapper.cs",
               "DocumentMoniker": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Project Library - With Passwords\\ProjectLibrary.ASPMVC\\Mappers\\Mapper.cs",
               "RelativeDocumentMoniker": "ProjectLibrary.ASPMVC\\Mappers\\Mapper.cs",
@@ -130,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Project Library - With Passwords\\ProjectLibrary.ASPMVC\\Program.cs",
               "RelativeDocumentMoniker": "ProjectLibrary.ASPMVC\\Program.cs",
@@ -143,7 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Project Library - With Passwords\\ProjectLibrary.ASPMVC\\Views\\Auth\\Index.cshtml",
               "RelativeDocumentMoniker": "ProjectLibrary.ASPMVC\\Views\\Auth\\Index.cshtml",
@@ -155,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Project Library - With Passwords\\ProjectLibrary.ASPMVC\\Views\\Auth\\Register.cshtml",
               "RelativeDocumentMoniker": "ProjectLibrary.ASPMVC\\Views\\Auth\\Register.cshtml",
@@ -167,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "RegisterForm.cs",
               "DocumentMoniker": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Project Library - With Passwords\\ProjectLibrary.ASPMVC\\Models\\Auth\\RegisterForm.cs",
               "RelativeDocumentMoniker": "ProjectLibrary.ASPMVC\\Models\\Auth\\RegisterForm.cs",
@@ -179,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "dbo.User.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ProjectLibrary/True/SqlTable/dbo.User.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ProjectLibrary/True/SqlTable/dbo.User.sql",
@@ -188,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "LoginForm.cs",
               "DocumentMoniker": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Project Library - With Passwords\\ProjectLibrary.ASPMVC\\Models\\Auth\\LoginForm.cs",
               "RelativeDocumentMoniker": "ProjectLibrary.ASPMVC\\Models\\Auth\\LoginForm.cs",
@@ -200,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Project Library - With Passwords\\ProjectLibrary.BLL\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "ProjectLibrary.BLL\\Services\\UserService.cs",
@@ -212,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "UserProfileService.cs",
               "DocumentMoniker": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Project Library - With Passwords\\ProjectLibrary.BLL\\Services\\UserProfileService.cs",
               "RelativeDocumentMoniker": "ProjectLibrary.BLL\\Services\\UserProfileService.cs",
@@ -224,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Mapper.cs",
               "DocumentMoniker": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Project Library - With Passwords\\ProjectLibrary.BLL\\Mappers\\Mapper.cs",
               "RelativeDocumentMoniker": "ProjectLibrary.BLL\\Mappers\\Mapper.cs",
@@ -236,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Project Library - With Passwords\\ProjectLibrary.BLL\\Entities\\User.cs",
               "RelativeDocumentMoniker": "ProjectLibrary.BLL\\Entities\\User.cs",
@@ -248,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Mapper.cs",
               "DocumentMoniker": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Project Library - With Passwords\\ProjectLibrary.DAL\\Mappers\\Mapper.cs",
               "RelativeDocumentMoniker": "ProjectLibrary.DAL\\Mappers\\Mapper.cs",
@@ -260,7 +275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Project Library - With Passwords\\ProjectLibrary.DAL\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "ProjectLibrary.DAL\\Services\\UserService.cs",
@@ -272,7 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Project Library - With Passwords\\ProjectLibrary.ASPMVC\\Views\\Auth\\Login.cshtml",
               "RelativeDocumentMoniker": "ProjectLibrary.ASPMVC\\Views\\Auth\\Login.cshtml",
@@ -284,7 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ProjectLibrary.ASPMVC.csproj",
               "DocumentMoniker": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Project Library - With Passwords\\ProjectLibrary.ASPMVC\\ProjectLibrary.ASPMVC.csproj",
               "RelativeDocumentMoniker": "ProjectLibrary.ASPMVC\\ProjectLibrary.ASPMVC.csproj",
@@ -296,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Project Library - With Passwords\\ProjectLibrary.DAL\\Entities\\User.cs",
               "RelativeDocumentMoniker": "ProjectLibrary.DAL\\Entities\\User.cs",
@@ -308,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Project Library - With Passwords\\ProjectLibrary.Common\\Repositories\\IUserRepository.cs",
               "RelativeDocumentMoniker": "ProjectLibrary.Common\\Repositories\\IUserRepository.cs",
@@ -320,6 +335,10 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{007a3a6b-b5b2-454d-a2bd-cf929f989be2}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
@@ -328,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "User.sql",
               "DocumentMoniker": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Project Library - With Passwords\\ProjectLibrary.Database\\Tables\\User.sql",
               "RelativeDocumentMoniker": "ProjectLibrary.Database\\Tables\\User.sql",

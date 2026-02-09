@@ -30,6 +30,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1224,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1224,
           "SelectedChildIndex": 4,
           "Children": [
             {
@@ -92,7 +102,7 @@
               "RelativeDocumentMoniker": "ProjectLibrary.ASPMVC\\Views\\Rent\\Index.cshtml",
               "ToolTip": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\ProjectLibrary - With Sessions and Handlers\\ProjectLibrary.ASPMVC\\Views\\Rent\\Index.cshtml",
               "RelativeToolTip": "ProjectLibrary.ASPMVC\\Views\\Rent\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwAsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-02-05T13:09:18.893Z",
               "EditorCaption": ""

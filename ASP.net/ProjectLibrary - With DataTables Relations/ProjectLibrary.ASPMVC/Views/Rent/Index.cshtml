@@ -1,0 +1,41 @@
+﻿@model IEnumerable<ProjectLibrary.ASPMVC.Models.Rent.ListItemViewModel>
+
+@{
+    ViewData["Title"] = "Panier";
+}
+
+<h1>Panier</h1>
+
+<p>
+    <a asp-action="Index" asp-controller="Book">Ajouter un livre?</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RentDate)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                <a asp-action="Details" asp-controller="Book" asp-route-id="@item.BookId">@item.Title</a>
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RentDate)
+            </td>
+            <td>
+                <form method="post" asp-controller="Rent" asp-action="Remove" asp-route-BookId="@item.BookId">
+                    <button type="submit" class="btn btn-outline-dark">Retirer</button>
+                </form>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
