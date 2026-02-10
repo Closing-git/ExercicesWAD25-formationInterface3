@@ -1,0 +1,12 @@
+C:\xampp\htdocs\htdocs\ASP.net\EventApi\Event\bin\Debug\net8.0\Event.Fake.deps.json
+C:\xampp\htdocs\htdocs\ASP.net\EventApi\Event\bin\Debug\net8.0\Event.Fake.dll
+C:\xampp\htdocs\htdocs\ASP.net\EventApi\Event\bin\Debug\net8.0\Event.Fake.pdb
+C:\xampp\htdocs\htdocs\ASP.net\EventApi\Event\obj\Debug\net8.0\Event.Fake.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\htdocs\ASP.net\EventApi\Event\obj\Debug\net8.0\Event.Fake.AssemblyInfoInputs.cache
+C:\xampp\htdocs\htdocs\ASP.net\EventApi\Event\obj\Debug\net8.0\Event.Fake.AssemblyInfo.cs
+C:\xampp\htdocs\htdocs\ASP.net\EventApi\Event\obj\Debug\net8.0\Event.Fake.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\htdocs\ASP.net\EventApi\Event\obj\Debug\net8.0\Event.Fake.sourcelink.json
+C:\xampp\htdocs\htdocs\ASP.net\EventApi\Event\obj\Debug\net8.0\Event.Fake.dll
+C:\xampp\htdocs\htdocs\ASP.net\EventApi\Event\obj\Debug\net8.0\refint\Event.Fake.dll
+C:\xampp\htdocs\htdocs\ASP.net\EventApi\Event\obj\Debug\net8.0\Event.Fake.pdb
+C:\xampp\htdocs\htdocs\ASP.net\EventApi\Event\obj\Debug\net8.0\ref\Event.Fake.dll

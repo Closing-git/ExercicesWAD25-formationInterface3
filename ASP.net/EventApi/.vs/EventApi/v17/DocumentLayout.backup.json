@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\EventApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D30E9CD-9608-4A09-82AA-6A92CA4BE5C8}|EventApi\\EventApi.csproj|c:\\xampp\\htdocs\\htdocs\\asp.net\\eventapi\\eventapi\\controllers\\guestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D30E9CD-9608-4A09-82AA-6A92CA4BE5C8}|EventApi\\EventApi.csproj|solutionrelative:eventapi\\controllers\\guestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D30E9CD-9608-4A09-82AA-6A92CA4BE5C8}|EventApi\\EventApi.csproj|c:\\xampp\\htdocs\\htdocs\\asp.net\\eventapi\\eventapi\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D30E9CD-9608-4A09-82AA-6A92CA4BE5C8}|EventApi\\EventApi.csproj|solutionrelative:eventapi\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{532FD6E5-20B3-4757-B006-BB10EC854D9B}|Event\\Event.Fake.csproj|c:\\xampp\\htdocs\\htdocs\\asp.net\\eventapi\\event\\entities\\evenement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{532FD6E5-20B3-4757-B006-BB10EC854D9B}|Event\\Event.Fake.csproj|solutionrelative:event\\entities\\evenement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{532FD6E5-20B3-4757-B006-BB10EC854D9B}|Event\\Event.Fake.csproj|c:\\xampp\\htdocs\\htdocs\\asp.net\\eventapi\\event\\entities\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{532FD6E5-20B3-4757-B006-BB10EC854D9B}|Event\\Event.Fake.csproj|solutionrelative:event\\entities\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{532FD6E5-20B3-4757-B006-BB10EC854D9B}|Event\\Event.Fake.csproj|c:\\xampp\\htdocs\\htdocs\\asp.net\\eventapi\\event\\services\\fakecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{532FD6E5-20B3-4757-B006-BB10EC854D9B}|Event\\Event.Fake.csproj|solutionrelative:event\\services\\fakecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{532FD6E5-20B3-4757-B006-BB10EC854D9B}|Event\\Event.Fake.csproj|c:\\xampp\\htdocs\\htdocs\\asp.net\\eventapi\\event\\icontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{532FD6E5-20B3-4757-B006-BB10EC854D9B}|Event\\Event.Fake.csproj|solutionrelative:event\\icontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D30E9CD-9608-4A09-82AA-6A92CA4BE5C8}|EventApi\\EventApi.csproj|c:\\xampp\\htdocs\\htdocs\\asp.net\\eventapi\\eventapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D30E9CD-9608-4A09-82AA-6A92CA4BE5C8}|EventApi\\EventApi.csproj|solutionrelative:eventapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1323,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{007a3a6b-b5b2-454d-a2bd-cf929f989be2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GuestController.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\EventApi\\EventApi\\Controllers\\GuestController.cs",
+              "RelativeDocumentMoniker": "EventApi\\Controllers\\GuestController.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\EventApi\\EventApi\\Controllers\\GuestController.cs",
+              "RelativeToolTip": "EventApi\\Controllers\\GuestController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAuwCsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T15:02:05.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\EventApi\\EventApi\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "EventApi\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\EventApi\\EventApi\\Controllers\\EventController.cs",
+              "RelativeToolTip": "EventApi\\Controllers\\EventController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T14:53:20.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\EventApi\\EventApi\\Program.cs",
+              "RelativeDocumentMoniker": "EventApi\\Program.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\EventApi\\EventApi\\Program.cs",
+              "RelativeToolTip": "EventApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T14:50:31.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Guest.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\EventApi\\Event\\Entities\\Guest.cs",
+              "RelativeDocumentMoniker": "Event\\Entities\\Guest.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\EventApi\\Event\\Entities\\Guest.cs",
+              "RelativeToolTip": "Event\\Entities\\Guest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T14:44:11.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FakeContext.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\EventApi\\Event\\Services\\FakeContext.cs",
+              "RelativeDocumentMoniker": "Event\\Services\\FakeContext.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\EventApi\\Event\\Services\\FakeContext.cs",
+              "RelativeToolTip": "Event\\Services\\FakeContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T14:30:28.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IContext.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\EventApi\\Event\\IContext.cs",
+              "RelativeDocumentMoniker": "Event\\IContext.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\EventApi\\Event\\IContext.cs",
+              "RelativeToolTip": "Event\\IContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T14:29:39.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Evenement.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\EventApi\\Event\\Entities\\Evenement.cs",
+              "RelativeDocumentMoniker": "Event\\Entities\\Evenement.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\EventApi\\Event\\Entities\\Evenement.cs",
+              "RelativeToolTip": "Event\\Entities\\Evenement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T14:25:37.063Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
