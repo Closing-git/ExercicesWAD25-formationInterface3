@@ -1,6 +1,6 @@
 ﻿CREATE PROCEDURE [dbo].[SP_Product_Update]
 
-	@ProductId INT,
+	@productId INT,
 	@name NVARCHAR(64),
 	@description NVARCHAR(512),
 	@currentPrice MONEY
@@ -13,6 +13,6 @@ BEGIN
 		SET [Name] = @name,
 			[Description] = @description,
 			[CurrentPrice] = @currentPrice
-		WHERE [ProductId] = @ProductId
+		WHERE [ProductId] = @productId
 
 END

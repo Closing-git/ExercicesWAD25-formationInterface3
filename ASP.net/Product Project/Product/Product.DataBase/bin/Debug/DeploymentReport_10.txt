@@ -1,0 +1,26 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Product] (Table)
+       [dbo].[StockEntry] (Table)
+       [dbo].[FK_StockEntry_Product] (Foreign Key)
+       [dbo].[SP_Product_Delete] (Procedure)
+       [dbo].[SP_Product_Get_All] (Procedure)
+       [dbo].[SP_Product_Get_By_Id] (Procedure)
+       [dbo].[SP_Product_Insert] (Procedure)
+       [dbo].[SP_Product_Update] (Procedure)
+       [dbo].[SP_StockEntry_Get_All] (Procedure)
+       [dbo].[SP_StockEntry_Get_By_Id] (Procedure)
+       [dbo].[SP_StockEntry_Get_By_Product] (Procedure)
+       [dbo].[SP_StockEntry_Insert] (Procedure)
+
+** Supporting actions

@@ -1,3 +1,5 @@
+using Microsoft.Data.SqlClient;
+
 namespace Product.ASPMVC
 {
     public class Program
@@ -8,6 +10,8 @@ namespace Product.ASPMVC
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+
+            builder.Services.AddScoped<SqlConnection>(ServiceProvider => new SqlConnection(builder.Configuration.GetConnectionString("ProjectProduct.Database")));
 
             var app = builder.Build();
 
