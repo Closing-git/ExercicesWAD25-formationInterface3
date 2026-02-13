@@ -14,6 +14,7 @@
 
 (optionnel) Test dans la console
  
+// BLL //
 - BLL Entities (entités logiques)
 (optionnel) Test dans la console des entités logiques
 - Mapping de la BLL (de DAL vers BLL)
@@ -24,13 +25,16 @@
 
 (optionnel) Test dans la console du BLL
  
-
-=> ConnectionString dans appsettings.json (MVC)
+// MVC //
+=> ConnectionString dans appsettings.json (MVC) ET dans program.cs
 => Ajouter SQLConnection dans les services dans program.cs du MVC (+ install Microsoft.Data.SQLClient)
+=> Dependencies de MVC : .DAL .BLL .Common
+=> Dans program.cs Injection de dépendance de tous les services (AddScoped())
+[[Session + Cookies à gérer également]]
 
-- Paramétrer l'injection de dépendances (addScoped() dans MVC.program.cs)
-- Dans le controller faire l'injection de la dépendance du service BLL
-- Dans le MVC créer les view Model
+
+- Dans le Controller faire l'injection de la dépendance du service BLL
+- Dans le MVC créer les View Model
 - Mapping MVC de BLL vers ViewModel
 - A l'aide du service, récupérer le model dans mes actions du Controller
 - Faire les views (ou les générer)

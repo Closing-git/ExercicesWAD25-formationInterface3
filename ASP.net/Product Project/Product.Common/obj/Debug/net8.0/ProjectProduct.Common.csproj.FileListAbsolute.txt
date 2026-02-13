@@ -1,0 +1,12 @@
+C:\xampp\htdocs\htdocs\ASP.net\Product Project\Product.Common\bin\Debug\net8.0\ProjectProduct.Common.deps.json
+C:\xampp\htdocs\htdocs\ASP.net\Product Project\Product.Common\bin\Debug\net8.0\ProjectProduct.Common.dll
+C:\xampp\htdocs\htdocs\ASP.net\Product Project\Product.Common\bin\Debug\net8.0\ProjectProduct.Common.pdb
+C:\xampp\htdocs\htdocs\ASP.net\Product Project\Product.Common\obj\Debug\net8.0\ProjectProduct.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\htdocs\ASP.net\Product Project\Product.Common\obj\Debug\net8.0\ProjectProduct.Common.AssemblyInfoInputs.cache
+C:\xampp\htdocs\htdocs\ASP.net\Product Project\Product.Common\obj\Debug\net8.0\ProjectProduct.Common.AssemblyInfo.cs
+C:\xampp\htdocs\htdocs\ASP.net\Product Project\Product.Common\obj\Debug\net8.0\ProjectProduct.Common.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\htdocs\ASP.net\Product Project\Product.Common\obj\Debug\net8.0\ProjectProduct.Common.sourcelink.json
+C:\xampp\htdocs\htdocs\ASP.net\Product Project\Product.Common\obj\Debug\net8.0\ProjectProduct.Common.dll
+C:\xampp\htdocs\htdocs\ASP.net\Product Project\Product.Common\obj\Debug\net8.0\refint\ProjectProduct.Common.dll
+C:\xampp\htdocs\htdocs\ASP.net\Product Project\Product.Common\obj\Debug\net8.0\ProjectProduct.Common.pdb
+C:\xampp\htdocs\htdocs\ASP.net\Product Project\Product.Common\obj\Debug\net8.0\ref\ProjectProduct.Common.dll

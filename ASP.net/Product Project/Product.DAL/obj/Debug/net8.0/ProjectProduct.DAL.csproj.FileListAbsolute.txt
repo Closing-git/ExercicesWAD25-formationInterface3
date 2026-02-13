@@ -1,0 +1,16 @@
+C:\xampp\htdocs\htdocs\ASP.net\Product Project\Product.DAL\bin\Debug\net8.0\ProjectProduct.DAL.deps.json
+C:\xampp\htdocs\htdocs\ASP.net\Product Project\Product.DAL\bin\Debug\net8.0\ProjectProduct.DAL.dll
+C:\xampp\htdocs\htdocs\ASP.net\Product Project\Product.DAL\bin\Debug\net8.0\ProjectProduct.DAL.pdb
+C:\xampp\htdocs\htdocs\ASP.net\Product Project\Product.DAL\bin\Debug\net8.0\ProjectProduct.Common.dll
+C:\xampp\htdocs\htdocs\ASP.net\Product Project\Product.DAL\bin\Debug\net8.0\ProjectProduct.Common.pdb
+C:\xampp\htdocs\htdocs\ASP.net\Product Project\Product.DAL\obj\Debug\net8.0\ProjectProduct.DAL.csproj.AssemblyReference.cache
+C:\xampp\htdocs\htdocs\ASP.net\Product Project\Product.DAL\obj\Debug\net8.0\ProjectProduct.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\htdocs\ASP.net\Product Project\Product.DAL\obj\Debug\net8.0\ProjectProduct.DAL.AssemblyInfoInputs.cache
+C:\xampp\htdocs\htdocs\ASP.net\Product Project\Product.DAL\obj\Debug\net8.0\ProjectProduct.DAL.AssemblyInfo.cs
+C:\xampp\htdocs\htdocs\ASP.net\Product Project\Product.DAL\obj\Debug\net8.0\ProjectProduct.DAL.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\htdocs\ASP.net\Product Project\Product.DAL\obj\Debug\net8.0\ProjectProduct.DAL.sourcelink.json
+C:\xampp\htdocs\htdocs\ASP.net\Product Project\Product.DAL\obj\Debug\net8.0\ProjectP.6C263357.Up2Date
+C:\xampp\htdocs\htdocs\ASP.net\Product Project\Product.DAL\obj\Debug\net8.0\ProjectProduct.DAL.dll
+C:\xampp\htdocs\htdocs\ASP.net\Product Project\Product.DAL\obj\Debug\net8.0\refint\ProjectProduct.DAL.dll
+C:\xampp\htdocs\htdocs\ASP.net\Product Project\Product.DAL\obj\Debug\net8.0\ProjectProduct.DAL.pdb
+C:\xampp\htdocs\htdocs\ASP.net\Product Project\Product.DAL\obj\Debug\net8.0\ref\ProjectProduct.DAL.dll

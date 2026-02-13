@@ -65,7 +65,7 @@ namespace EventApi.Controllers
                 entity.Id = maxId + 1;
                 entity.IsComing = false;
                 _context.Guests.Add(entity);
-                
+
                 return CreatedAtAction(nameof(Get), new { id = entity.Id }, entity);
             }
             catch (Exception)
@@ -91,7 +91,7 @@ namespace EventApi.Controllers
                 entity.LastName = _context.Guests[index].LastName;
                 entity.ForName = _context.Guests[index].ForName;
 
-                _context.Guests[index]=entity;
+                _context.Guests[index] = entity;
 
                 return CreatedAtAction(nameof(Get), new { id = entity.Id }, entity);
             }
@@ -108,7 +108,8 @@ namespace EventApi.Controllers
         [ProducesResponseType<int>(404)]
         [ProducesResponseType<string>(500)]
 
-        public IActionResult Delete (int id) {
+        public IActionResult Delete(int id)
+        {
             try
             {
                 Guest? g = _context.Guests.SingleOrDefault(g => g.Id == id);
@@ -121,5 +122,6 @@ namespace EventApi.Controllers
                 return StatusCode(500, "Erreur interne de la base de données"); throw;
             }
 
+        }
     }
 }
