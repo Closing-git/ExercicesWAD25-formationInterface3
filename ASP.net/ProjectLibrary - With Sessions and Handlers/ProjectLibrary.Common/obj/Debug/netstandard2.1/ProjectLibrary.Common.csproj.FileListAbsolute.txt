@@ -8,3 +8,13 @@ C:\xampp\htdocs\htdocs\ASP.net\ProjectLibrary - With Sessions and Handlers\Proje
 C:\xampp\htdocs\htdocs\ASP.net\ProjectLibrary - With Sessions and Handlers\ProjectLibrary.Common\obj\Debug\netstandard2.1\ProjectLibrary.Common.sourcelink.json
 C:\xampp\htdocs\htdocs\ASP.net\ProjectLibrary - With Sessions and Handlers\ProjectLibrary.Common\obj\Debug\netstandard2.1\ProjectLibrary.Common.dll
 C:\xampp\htdocs\htdocs\ASP.net\ProjectLibrary - With Sessions and Handlers\ProjectLibrary.Common\obj\Debug\netstandard2.1\ProjectLibrary.Common.pdb
+G:\Interface 3\ExercicesWAD25-formationInterface3\ASP.net\ProjectLibrary - With Sessions and Handlers\ProjectLibrary.Common\bin\Debug\netstandard2.1\ProjectLibrary.Common.deps.json
+G:\Interface 3\ExercicesWAD25-formationInterface3\ASP.net\ProjectLibrary - With Sessions and Handlers\ProjectLibrary.Common\bin\Debug\netstandard2.1\ProjectLibrary.Common.dll
+G:\Interface 3\ExercicesWAD25-formationInterface3\ASP.net\ProjectLibrary - With Sessions and Handlers\ProjectLibrary.Common\bin\Debug\netstandard2.1\ProjectLibrary.Common.pdb
+G:\Interface 3\ExercicesWAD25-formationInterface3\ASP.net\ProjectLibrary - With Sessions and Handlers\ProjectLibrary.Common\obj\Debug\netstandard2.1\ProjectLibrary.Common.GeneratedMSBuildEditorConfig.editorconfig
+G:\Interface 3\ExercicesWAD25-formationInterface3\ASP.net\ProjectLibrary - With Sessions and Handlers\ProjectLibrary.Common\obj\Debug\netstandard2.1\ProjectLibrary.Common.AssemblyInfoInputs.cache
+G:\Interface 3\ExercicesWAD25-formationInterface3\ASP.net\ProjectLibrary - With Sessions and Handlers\ProjectLibrary.Common\obj\Debug\netstandard2.1\ProjectLibrary.Common.AssemblyInfo.cs
+G:\Interface 3\ExercicesWAD25-formationInterface3\ASP.net\ProjectLibrary - With Sessions and Handlers\ProjectLibrary.Common\obj\Debug\netstandard2.1\ProjectLibrary.Common.csproj.CoreCompileInputs.cache
+G:\Interface 3\ExercicesWAD25-formationInterface3\ASP.net\ProjectLibrary - With Sessions and Handlers\ProjectLibrary.Common\obj\Debug\netstandard2.1\ProjectLibrary.Common.sourcelink.json
+G:\Interface 3\ExercicesWAD25-formationInterface3\ASP.net\ProjectLibrary - With Sessions and Handlers\ProjectLibrary.Common\obj\Debug\netstandard2.1\ProjectLibrary.Common.dll
+G:\Interface 3\ExercicesWAD25-formationInterface3\ASP.net\ProjectLibrary - With Sessions and Handlers\ProjectLibrary.Common\obj\Debug\netstandard2.1\ProjectLibrary.Common.pdb

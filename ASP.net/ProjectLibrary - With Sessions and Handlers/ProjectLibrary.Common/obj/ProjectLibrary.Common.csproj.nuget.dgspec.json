@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\xampp\\htdocs\\htdocs\\ASP.net\\ProjectLibrary - With Sessions and Handlers\\ProjectLibrary.Common\\ProjectLibrary.Common.csproj": {}
+    "G:\\Interface 3\\ExercicesWAD25-formationInterface3\\ASP.net\\ProjectLibrary - With Sessions and Handlers\\ProjectLibrary.Common\\ProjectLibrary.Common.csproj": {}
   },
   "projects": {
-    "C:\\xampp\\htdocs\\htdocs\\ASP.net\\ProjectLibrary - With Sessions and Handlers\\ProjectLibrary.Common\\ProjectLibrary.Common.csproj": {
+    "G:\\Interface 3\\ExercicesWAD25-formationInterface3\\ASP.net\\ProjectLibrary - With Sessions and Handlers\\ProjectLibrary.Common\\ProjectLibrary.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\ProjectLibrary - With Sessions and Handlers\\ProjectLibrary.Common\\ProjectLibrary.Common.csproj",
+        "projectUniqueName": "G:\\Interface 3\\ExercicesWAD25-formationInterface3\\ASP.net\\ProjectLibrary - With Sessions and Handlers\\ProjectLibrary.Common\\ProjectLibrary.Common.csproj",
         "projectName": "ProjectLibrary.Common",
-        "projectPath": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\ProjectLibrary - With Sessions and Handlers\\ProjectLibrary.Common\\ProjectLibrary.Common.csproj",
-        "packagesPath": "C:\\Users\\c.fersing\\.nuget\\packages\\",
-        "outputPath": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\ProjectLibrary - With Sessions and Handlers\\ProjectLibrary.Common\\obj\\",
+        "projectPath": "G:\\Interface 3\\ExercicesWAD25-formationInterface3\\ASP.net\\ProjectLibrary - With Sessions and Handlers\\ProjectLibrary.Common\\ProjectLibrary.Common.csproj",
+        "packagesPath": "C:\\Users\\chloe\\.nuget\\packages\\",
+        "outputPath": "G:\\Interface 3\\ExercicesWAD25-formationInterface3\\ASP.net\\ProjectLibrary - With Sessions and Handlers\\ProjectLibrary.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\c.fersing\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\chloe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308\\RuntimeIdentifierGraph.json"
         }
       }
     }

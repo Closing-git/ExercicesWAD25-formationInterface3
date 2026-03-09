@@ -12,3 +12,17 @@ C:\xampp\htdocs\htdocs\ASP.net\ProjectLibrary - With Sessions and Handlers\Proje
 C:\xampp\htdocs\htdocs\ASP.net\ProjectLibrary - With Sessions and Handlers\ProjectLibrary.DAL\obj\Debug\netstandard2.1\ProjectL.A8B06B0A.Up2Date
 C:\xampp\htdocs\htdocs\ASP.net\ProjectLibrary - With Sessions and Handlers\ProjectLibrary.DAL\obj\Debug\netstandard2.1\ProjectLibrary.DAL.dll
 C:\xampp\htdocs\htdocs\ASP.net\ProjectLibrary - With Sessions and Handlers\ProjectLibrary.DAL\obj\Debug\netstandard2.1\ProjectLibrary.DAL.pdb
+G:\Interface 3\ExercicesWAD25-formationInterface3\ASP.net\ProjectLibrary - With Sessions and Handlers\ProjectLibrary.DAL\bin\Debug\netstandard2.1\ProjectLibrary.DAL.deps.json
+G:\Interface 3\ExercicesWAD25-formationInterface3\ASP.net\ProjectLibrary - With Sessions and Handlers\ProjectLibrary.DAL\bin\Debug\netstandard2.1\ProjectLibrary.DAL.dll
+G:\Interface 3\ExercicesWAD25-formationInterface3\ASP.net\ProjectLibrary - With Sessions and Handlers\ProjectLibrary.DAL\bin\Debug\netstandard2.1\ProjectLibrary.DAL.pdb
+G:\Interface 3\ExercicesWAD25-formationInterface3\ASP.net\ProjectLibrary - With Sessions and Handlers\ProjectLibrary.DAL\bin\Debug\netstandard2.1\ProjectLibrary.Common.dll
+G:\Interface 3\ExercicesWAD25-formationInterface3\ASP.net\ProjectLibrary - With Sessions and Handlers\ProjectLibrary.DAL\bin\Debug\netstandard2.1\ProjectLibrary.Common.pdb
+G:\Interface 3\ExercicesWAD25-formationInterface3\ASP.net\ProjectLibrary - With Sessions and Handlers\ProjectLibrary.DAL\obj\Debug\netstandard2.1\ProjectLibrary.DAL.csproj.AssemblyReference.cache
+G:\Interface 3\ExercicesWAD25-formationInterface3\ASP.net\ProjectLibrary - With Sessions and Handlers\ProjectLibrary.DAL\obj\Debug\netstandard2.1\ProjectLibrary.DAL.GeneratedMSBuildEditorConfig.editorconfig
+G:\Interface 3\ExercicesWAD25-formationInterface3\ASP.net\ProjectLibrary - With Sessions and Handlers\ProjectLibrary.DAL\obj\Debug\netstandard2.1\ProjectLibrary.DAL.AssemblyInfoInputs.cache
+G:\Interface 3\ExercicesWAD25-formationInterface3\ASP.net\ProjectLibrary - With Sessions and Handlers\ProjectLibrary.DAL\obj\Debug\netstandard2.1\ProjectLibrary.DAL.AssemblyInfo.cs
+G:\Interface 3\ExercicesWAD25-formationInterface3\ASP.net\ProjectLibrary - With Sessions and Handlers\ProjectLibrary.DAL\obj\Debug\netstandard2.1\ProjectLibrary.DAL.csproj.CoreCompileInputs.cache
+G:\Interface 3\ExercicesWAD25-formationInterface3\ASP.net\ProjectLibrary - With Sessions and Handlers\ProjectLibrary.DAL\obj\Debug\netstandard2.1\ProjectLibrary.DAL.sourcelink.json
+G:\Interface 3\ExercicesWAD25-formationInterface3\ASP.net\ProjectLibrary - With Sessions and Handlers\ProjectLibrary.DAL\obj\Debug\netstandard2.1\ProjectL.A8B06B0A.Up2Date
+G:\Interface 3\ExercicesWAD25-formationInterface3\ASP.net\ProjectLibrary - With Sessions and Handlers\ProjectLibrary.DAL\obj\Debug\netstandard2.1\ProjectLibrary.DAL.dll
+G:\Interface 3\ExercicesWAD25-formationInterface3\ASP.net\ProjectLibrary - With Sessions and Handlers\ProjectLibrary.DAL\obj\Debug\netstandard2.1\ProjectLibrary.DAL.pdb

@@ -28,6 +28,7 @@ namespace ProjectLibrary.ASPMVC.Handlers
             }
             private set
             {
+                if(value is null) throw new ArgumentNullException(nameof(value));
                 _session.SetString(nameof(Basket), JsonSerializer.Serialize(value));
             }
         }

@@ -49,6 +49,7 @@ namespace ProjectLibrary.ASPMVC.Controllers
         }
 
         [HttpPost]
+        [ValidateAntiForgeryToken]
         public ActionResult Rent(Guid id)
         {
             DetailsViewModel model = _bllService.Get(id).ToDetails();
@@ -67,6 +68,7 @@ namespace ProjectLibrary.ASPMVC.Controllers
         }
 
         [HttpPost]
+        [ValidateAntiForgeryToken]
         public ActionResult Remove(Guid id)
         {
 

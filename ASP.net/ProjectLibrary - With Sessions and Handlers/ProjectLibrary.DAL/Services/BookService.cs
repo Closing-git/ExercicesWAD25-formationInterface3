@@ -62,15 +62,27 @@ namespace ProjectLibrary.DAL.Services
         {
             using (SqlCommand command = _connection.CreateCommand())
             {
-                command.CommandText = "SP_Book_Insert";
-                command.CommandType = CommandType.StoredProcedure;
-                command.Parameters.AddWithValue(nameof(Book.Title), entity.Title);
-                command.Parameters.AddWithValue(nameof(Book.ReleaseDate), entity.ReleaseDate);
-                command.Parameters.AddWithValue(nameof(Book.ISBN), (object?)entity.ISBN ?? DBNull.Value);
-                command.Parameters.AddWithValue(nameof(Book.Author), (object?)entity.Author ?? DBNull.Value);
-                _connection.Open();
-                return (Guid)command.ExecuteScalar();
+                try
+                {
+                    command.CommandText = "SP_Book_Insert";
+                    command.CommandType = CommandType.StoredProcedure;
+                    command.Parameters.AddWithValue(nameof(Book.Title), entity.Title);
+                    command.Parameters.AddWithValue(nameof(Book.ReleaseDate), entity.ReleaseDate);
+                    command.Parameters.AddWithValue(nameof(Book.ISBN), (object?)entity.ISBN ?? DBNull.Value);
+                    command.Parameters.AddWithValue(nameof(Book.Author), (object?)entity.Author ?? DBNull.Value);
+                    _connection.Open();
+                    return (Guid)command.ExecuteScalar();
+
+                }
+                catch (Exception ex)
+                {
+                    throw new Exception();
+                }
+                finally
+                {
                 _connection.Close();
+
+                }
             }
         }
 
