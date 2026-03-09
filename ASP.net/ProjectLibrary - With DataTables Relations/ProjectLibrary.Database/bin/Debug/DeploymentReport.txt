@@ -1,0 +1,57 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Book] (Table)
+       [dbo].[Book_Category] (Table)
+       [dbo].[Category] (Table)
+       [dbo].[User] (Table)
+       [dbo].[UserProfile] (Table)
+       Default Constraint: unnamed constraint on [dbo].[Book] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[Book] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[User] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[User] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[UserProfile] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[UserProfile] (Default Constraint)
+       [dbo].[FK_Book_Category_Book] (Foreign Key)
+       [dbo].[FK_Book_Category_Category] (Foreign Key)
+       [dbo].[FK_UserProfile_User] (Foreign Key)
+       [dbo].[FK_UserProfile_Book] (Foreign Key)
+       [dbo].[CK_UserProfile_ReadingSkill] (Check Constraint)
+       [dbo].[CK_UserProfile_DisabledDate] (Check Constraint)
+       [dbo].[TR_Book_Delete] (Trigger)
+       [dbo].[TR_User_Delete] (Trigger)
+       [dbo].[TR_UserProfile_Delete] (Trigger)
+       [dbo].[SF_SaltAndHash] (Function)
+       [dbo].[SP_Book_Add_Category] (Procedure)
+       [dbo].[SP_Book_Delete] (Procedure)
+       [dbo].[SP_Book_Get_All] (Procedure)
+       [dbo].[SP_Book_Get_ByCategory] (Procedure)
+       [dbo].[SP_Book_Get_ById] (Procedure)
+       [dbo].[SP_Book_Insert] (Procedure)
+       [dbo].[SP_Book_Remove_Category] (Procedure)
+       [dbo].[SP_Book_Update] (Procedure)
+       [dbo].[SP_Category_Delete] (Procedure)
+       [dbo].[SP_Category_Get_All] (Procedure)
+       [dbo].[SP_Category_Get_ByBook] (Procedure)
+       [dbo].[SP_Category_Get_ById] (Procedure)
+       [dbo].[SP_Category_Insert] (Procedure)
+       [dbo].[SP_Category_Update] (Procedure)
+       [dbo].[SP_User_CheckPassword] (Procedure)
+       [dbo].[SP_User_Insert] (Procedure)
+       [dbo].[SP_UserProfile_Delete] (Procedure)
+       [dbo].[SP_UserProfile_Get_All] (Procedure)
+       [dbo].[SP_UserProfile_Get_ById] (Procedure)
+       [dbo].[SP_UserProfile_Insert] (Procedure)
+       [dbo].[SP_UserProfile_SetFavoriteBook] (Procedure)
+       [dbo].[SP_UserProfile_Update] (Procedure)
+
+** Supporting actions

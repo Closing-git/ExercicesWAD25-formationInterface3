@@ -1,0 +1,138 @@
+﻿using ProjectLibrary.BLL.Entities;
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace ProjectLibrary.BLL.Mappers
+{
+    internal static class Mapper
+    {
+        #region Book
+        public static BLL.Entities.Book ToBLL(this DAL.Entities.Book entity)
+        {
+            if (entity is null) throw new ArgumentNullException(nameof(entity));
+            BLL.Entities.Book book = new BLL.Entities.Book(
+                entity.BookId,
+                entity.Title,
+                entity.Author,
+                entity.ISBN,
+                entity.ReleaseDate,
+                entity.RegisteredDate,
+                entity.DisabledDate
+                );
+            return book;
+        }
+        public static BLL.Entities.Book ToBLL(this DAL.Entities.Book entity, IEnumerable<Category> categories)
+        {
+            BLL.Entities.Book book = entity.ToBLL();
+            book.Categories = categories;
+            return book;
+        }
+
+        public static DAL.Entities.Book ToDAL(this BLL.Entities.Book entity)
+        {
+            if (entity is null) throw new ArgumentNullException(nameof(entity));
+            return new DAL.Entities.Book()
+            {
+                BookId = entity.BookId,
+                Title = entity.Title,
+                Author = entity.Author,
+                ISBN = entity.ISBN,
+                ReleaseDate = entity.ReleaseDate,
+                RegisteredDate = entity.RegisteredDate,
+                //DisabledDate non reçu, car privé dans le BLL, et non nécessaire dans l'utilisation de la DAL : simple omission
+                //OU
+                //Si vraiment nécessaire dans la DAL
+                //Remplacer la valeur réelle par une autre valeur cohérente
+                //DisabledDate = (entity.IsActive) ? null : (DateTime?)DateTime.Now
+            };
+        }
+        #endregion
+
+        #region UserProfile
+
+        public static BLL.Entities.UserProfile ToBLL(this DAL.Entities.UserProfile entity, BLL.Entities.Book? book = null)
+        {
+            if (entity is null) throw new ArgumentNullException(nameof(entity));
+            BLL.Entities.UserProfile userProfile =  new BLL.Entities.UserProfile(
+                entity.UserProfileId,
+                entity.LastName,
+                entity.FirstName,
+                entity.BirthDate,
+                entity.Biography,
+                entity.ReadingSkill,
+                entity.NewsLetterSubscribed,
+                entity.RegisteredDate,
+                entity.DisabledDate
+                );
+            userProfile.FavoriteBook = book;
+            return userProfile;
+        }
+
+        public static DAL.Entities.UserProfile ToDAL(this BLL.Entities.UserProfile entity)
+        {
+            if (entity is null) throw new ArgumentNullException(nameof(entity));
+            return new DAL.Entities.UserProfile() { 
+                UserProfileId = entity.UserProfileId,
+                LastName = entity.LastName,
+                FirstName = entity.FirstName,
+                BirthDate = entity.BirthDate,
+                Biography = entity.Biography,
+                ReadingSkill = (byte?)entity.ReadingSkill,
+                FavoriteBook = entity.FavoriteBook?.BookId,
+                NewsLetterSubscribed = entity.NewsLetterSubscribed,
+                RegisteredDate = entity.RegisteredDate,
+                DisabledDate = entity.DisabledDate
+            };
+        }
+        #endregion
+
+        #region User
+        public static BLL.Entities.User ToBLL(this DAL.Entities.User entity, bool isAdministrator)
+        {
+            if (entity is null) throw new ArgumentNullException(nameof(entity));
+            return new BLL.Entities.User(
+                entity.UserId,
+                entity.Email,
+                entity.Password,
+                entity.RegisteredDate,
+                entity.DisabledDate,
+                isAdministrator
+                );
+        }
+        public static DAL.Entities.User ToDAL(this BLL.Entities.User entity)
+        {
+            if (entity is null) throw new ArgumentNullException(nameof(entity));
+            return new DAL.Entities.User() {
+                UserId = entity.UserId,
+                Email = entity.Email,
+                Password = entity.Password,
+                RegisteredDate = entity.RegisteredDate,
+                DisabledDate = entity.DisabledDate
+                };
+        }
+        #endregion
+
+        #region Category
+
+        public static BLL.Entities.Category ToBLL (this DAL.Entities.Category entity)
+        {
+            if (entity is null) throw new ArgumentNullException(nameof(entity));
+            return new BLL.Entities.Category(
+                entity.CategoryId,
+                entity.CategoryName
+                );
+        }
+
+        public static DAL.Entities.Category ToDAL(this BLL.Entities.Category entity)
+        {
+            if (entity is null) throw new ArgumentNullException(nameof(entity));
+            return new DAL.Entities.Category() {
+                CategoryId = entity.CategoryId,
+                CategoryName = entity.CategoryName
+                };
+        }
+
+        #endregion
+    }
+}

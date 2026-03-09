@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Project Library - With Passwords\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D088C73-C8B2-6169-D68C-0D9C4166A36F}|ProjectLibrary.ASPMVC\\ProjectLibrary.ASPMVC.csproj|c:\\xampp\\htdocs\\htdocs\\asp.net\\project library - with passwords\\projectlibrary.aspmvc\\views\\shared\\_cookieconsentpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8D088C73-C8B2-6169-D68C-0D9C4166A36F}|ProjectLibrary.ASPMVC\\ProjectLibrary.ASPMVC.csproj|solutionrelative:projectlibrary.aspmvc\\views\\shared\\_cookieconsentpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8D088C73-C8B2-6169-D68C-0D9C4166A36F}|ProjectLibrary.ASPMVC\\ProjectLibrary.ASPMVC.csproj|c:\\xampp\\htdocs\\htdocs\\asp.net\\project library - with passwords\\projectlibrary.aspmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D088C73-C8B2-6169-D68C-0D9C4166A36F}|ProjectLibrary.ASPMVC\\ProjectLibrary.ASPMVC.csproj|solutionrelative:projectlibrary.aspmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D088C73-C8B2-6169-D68C-0D9C4166A36F}|ProjectLibrary.ASPMVC\\ProjectLibrary.ASPMVC.csproj|c:\\xampp\\htdocs\\htdocs\\asp.net\\project library - with passwords\\projectlibrary.aspmvc\\views\\shared\\_cookieconsentpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D088C73-C8B2-6169-D68C-0D9C4166A36F}|ProjectLibrary.ASPMVC\\ProjectLibrary.ASPMVC.csproj|solutionrelative:projectlibrary.aspmvc\\views\\shared\\_cookieconsentpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8D088C73-C8B2-6169-D68C-0D9C4166A36F}|ProjectLibrary.ASPMVC\\ProjectLibrary.ASPMVC.csproj|c:\\xampp\\htdocs\\htdocs\\asp.net\\project library - with passwords\\projectlibrary.aspmvc\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -89,32 +89,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1224,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "_CookieConsentPartial.cshtml",
               "DocumentMoniker": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Project Library - With Passwords\\ProjectLibrary.ASPMVC\\Views\\Shared\\_CookieConsentPartial.cshtml",
               "RelativeDocumentMoniker": "ProjectLibrary.ASPMVC\\Views\\Shared\\_CookieConsentPartial.cshtml",
               "ToolTip": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Project Library - With Passwords\\ProjectLibrary.ASPMVC\\Views\\Shared\\_CookieConsentPartial.cshtml",
               "RelativeToolTip": "ProjectLibrary.ASPMVC\\Views\\Shared\\_CookieConsentPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-02-04T14:40:15.743Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Project Library - With Passwords\\ProjectLibrary.ASPMVC\\Views\\Auth\\Index.cshtml",
-              "RelativeDocumentMoniker": "ProjectLibrary.ASPMVC\\Views\\Auth\\Index.cshtml",
-              "ToolTip": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Project Library - With Passwords\\ProjectLibrary.ASPMVC\\Views\\Auth\\Index.cshtml",
-              "RelativeToolTip": "ProjectLibrary.ASPMVC\\Views\\Auth\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-04T13:15:42.806Z"
             },
             {
               "$type": "Document",
@@ -142,16 +130,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Project Library - With Passwords\\ProjectLibrary.ASPMVC\\Program.cs",
               "RelativeDocumentMoniker": "ProjectLibrary.ASPMVC\\Program.cs",
               "ToolTip": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Project Library - With Passwords\\ProjectLibrary.ASPMVC\\Program.cs",
               "RelativeToolTip": "ProjectLibrary.ASPMVC\\Program.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAgwDoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwEQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-04T12:33:54.133Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Project Library - With Passwords\\ProjectLibrary.ASPMVC\\Views\\Auth\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjectLibrary.ASPMVC\\Views\\Auth\\Index.cshtml",
+              "ToolTip": "C:\\xampp\\htdocs\\htdocs\\ASP.net\\Project Library - With Passwords\\ProjectLibrary.ASPMVC\\Views\\Auth\\Index.cshtml",
+              "RelativeToolTip": "ProjectLibrary.ASPMVC\\Views\\Auth\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-04T13:15:42.806Z"
             },
             {
               "$type": "Document",

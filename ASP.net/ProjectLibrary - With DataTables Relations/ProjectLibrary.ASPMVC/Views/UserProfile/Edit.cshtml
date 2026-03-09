@@ -1,0 +1,59 @@
+﻿@*
+    @using ProjectLibrary.BLL.Entities
+    @using ProjectLibrary.Common.Repositories
+    @inject IUserProfileRepository<UserProfile> userProfileService
+*@
+
+@model ProjectLibrary.ASPMVC.Models.UserProfile.EditForm
+
+@{
+    ViewData["Title"] = "Edit";
+    Dictionary<string, ushort?> selectValues = new Dictionary<string, ushort?>();
+    selectValues.Add("Non renseigné", null);
+    for (int i = 1; i < 6; i++)
+    {
+        selectValues.Add(i.ToString(), (ushort)i);
+    }
+    selectValues.Add(">5", 6);
+    @*Guid userProfileId = Guid.Parse(ViewContext.RouteData.Values["id"]!.ToString());
+    UserProfile bllEntity = userProfileService.Get(userProfileId);*@
+}
+
+<h1>Edit</h1>
+
+@* <h4>Que modifier au profile de "@bllEntity.LastName @bllEntity.FirstName" ?</h4> *@
+<h4>Que modifier au profile de "@ViewData["UserName"]" ?</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Biography" class="control-label"></label>
+                <textarea asp-for="Biography" class="form-control"></textarea>
+                <span asp-validation-for="Biography" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ReadingSkill" class="control-label"></label>
+                <select asp-for="ReadingSkill" asp-items="selectValues.Select(sv => new SelectListItem(sv.Key,sv.Value.ToString()))"></select>
+                <span asp-validation-for="ReadingSkill" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="NewsLetterSubscribed" /> @Html.DisplayNameFor(model => model.NewsLetterSubscribed)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,12 @@
+C:\xampp\htdocs\htdocs\ASP.net\API\DemoApi1.Fake\obj\Debug\net8.0\DemoApi1.Fake.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\htdocs\ASP.net\API\DemoApi1.Fake\obj\Debug\net8.0\DemoApi1.Fake.AssemblyInfoInputs.cache
+C:\xampp\htdocs\htdocs\ASP.net\API\DemoApi1.Fake\obj\Debug\net8.0\DemoApi1.Fake.AssemblyInfo.cs
+C:\xampp\htdocs\htdocs\ASP.net\API\DemoApi1.Fake\obj\Debug\net8.0\DemoApi1.Fake.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\htdocs\ASP.net\API\DemoApi1.Fake\obj\Debug\net8.0\DemoApi1.Fake.sourcelink.json
+C:\xampp\htdocs\htdocs\ASP.net\API\DemoApi1.Fake\bin\Debug\net8.0\DemoApi1.Fake.deps.json
+C:\xampp\htdocs\htdocs\ASP.net\API\DemoApi1.Fake\bin\Debug\net8.0\DemoApi1.Fake.dll
+C:\xampp\htdocs\htdocs\ASP.net\API\DemoApi1.Fake\bin\Debug\net8.0\DemoApi1.Fake.pdb
+C:\xampp\htdocs\htdocs\ASP.net\API\DemoApi1.Fake\obj\Debug\net8.0\DemoApi1.Fake.dll
+C:\xampp\htdocs\htdocs\ASP.net\API\DemoApi1.Fake\obj\Debug\net8.0\refint\DemoApi1.Fake.dll
+C:\xampp\htdocs\htdocs\ASP.net\API\DemoApi1.Fake\obj\Debug\net8.0\DemoApi1.Fake.pdb
+C:\xampp\htdocs\htdocs\ASP.net\API\DemoApi1.Fake\obj\Debug\net8.0\ref\DemoApi1.Fake.dll

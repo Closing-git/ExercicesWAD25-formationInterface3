@@ -1,0 +1,10 @@
+C:\xampp\htdocs\htdocs\ASP.net\ProjectLibrary - With DataTables Relations\ProjectLibrary.Common\bin\Debug\netstandard2.1\ProjectLibrary.Common.deps.json
+C:\xampp\htdocs\htdocs\ASP.net\ProjectLibrary - With DataTables Relations\ProjectLibrary.Common\bin\Debug\netstandard2.1\ProjectLibrary.Common.dll
+C:\xampp\htdocs\htdocs\ASP.net\ProjectLibrary - With DataTables Relations\ProjectLibrary.Common\bin\Debug\netstandard2.1\ProjectLibrary.Common.pdb
+C:\xampp\htdocs\htdocs\ASP.net\ProjectLibrary - With DataTables Relations\ProjectLibrary.Common\obj\Debug\netstandard2.1\ProjectLibrary.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\htdocs\ASP.net\ProjectLibrary - With DataTables Relations\ProjectLibrary.Common\obj\Debug\netstandard2.1\ProjectLibrary.Common.AssemblyInfoInputs.cache
+C:\xampp\htdocs\htdocs\ASP.net\ProjectLibrary - With DataTables Relations\ProjectLibrary.Common\obj\Debug\netstandard2.1\ProjectLibrary.Common.AssemblyInfo.cs
+C:\xampp\htdocs\htdocs\ASP.net\ProjectLibrary - With DataTables Relations\ProjectLibrary.Common\obj\Debug\netstandard2.1\ProjectLibrary.Common.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\htdocs\ASP.net\ProjectLibrary - With DataTables Relations\ProjectLibrary.Common\obj\Debug\netstandard2.1\ProjectLibrary.Common.sourcelink.json
+C:\xampp\htdocs\htdocs\ASP.net\ProjectLibrary - With DataTables Relations\ProjectLibrary.Common\obj\Debug\netstandard2.1\ProjectLibrary.Common.dll
+C:\xampp\htdocs\htdocs\ASP.net\ProjectLibrary - With DataTables Relations\ProjectLibrary.Common\obj\Debug\netstandard2.1\ProjectLibrary.Common.pdb

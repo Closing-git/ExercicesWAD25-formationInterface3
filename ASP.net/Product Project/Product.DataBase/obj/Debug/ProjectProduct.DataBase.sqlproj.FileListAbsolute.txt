@@ -1,0 +1,16 @@
+C:\xampp\htdocs\htdocs\ASP.net\Product Project\Product\Product.DataBase\bin\Debug\ProjectProduct.DataBase.dacpac
+C:\xampp\htdocs\htdocs\ASP.net\Product Project\Product\Product.DataBase\bin\Debug\Product.DataBase.dll
+C:\xampp\htdocs\htdocs\ASP.net\Product Project\Product\Product.DataBase\bin\Debug\Product.DataBase.pdb
+C:\xampp\htdocs\htdocs\ASP.net\Product Project\Product\Product.DataBase\obj\Debug\ProjectProduct.DataBase.sqlproj.AssemblyReference.cache
+C:\xampp\htdocs\htdocs\ASP.net\Product Project\Product\Product.DataBase\obj\Debug\Product.DataBase.dll
+C:\xampp\htdocs\htdocs\ASP.net\Product Project\Product\Product.DataBase\obj\Debug\Product.DataBase.pdb
+C:\xampp\htdocs\htdocs\ASP.net\Product Project\Product.DataBase\bin\Debug\ProjectProduct.DataBase.dacpac
+C:\xampp\htdocs\htdocs\ASP.net\Product Project\Product.DataBase\bin\Debug\Product.DataBase.dll
+C:\xampp\htdocs\htdocs\ASP.net\Product Project\Product.DataBase\bin\Debug\Product.DataBase.pdb
+C:\xampp\htdocs\htdocs\ASP.net\Product Project\Product.DataBase\obj\Debug\ProjectProduct.DataBase.sqlproj.AssemblyReference.cache
+C:\xampp\htdocs\htdocs\ASP.net\Product Project\Product.DataBase\obj\Debug\Model.xml
+C:\xampp\htdocs\htdocs\ASP.net\Product Project\Product.DataBase\obj\Debug\refactor.xml
+C:\xampp\htdocs\htdocs\ASP.net\Product Project\Product.DataBase\obj\Debug\postdeploy.sql
+C:\xampp\htdocs\htdocs\ASP.net\Product Project\Product.DataBase\obj\Debug\predeploy.sql
+C:\xampp\htdocs\htdocs\ASP.net\Product Project\Product.DataBase\obj\Debug\Product.DataBase.dll
+C:\xampp\htdocs\htdocs\ASP.net\Product Project\Product.DataBase\obj\Debug\Product.DataBase.pdb
