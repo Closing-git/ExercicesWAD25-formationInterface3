@@ -1,0 +1,7 @@
+<h1>Chronomètre</h1>
+<input type="button" value="Start" (click)="startChrono()" [disabled]="chronoIsActive ">
+<input type="button" value="Pause" (click)="pauseChrono()" [disabled]="!chronoIsActive">
+<input type="button" value="Stop" (click)="stopChrono()" [disabled]="!chronoIsActive">
+{{time | chronoTransform}}
+
+

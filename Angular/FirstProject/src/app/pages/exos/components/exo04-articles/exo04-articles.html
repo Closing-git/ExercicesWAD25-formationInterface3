@@ -1,0 +1,11 @@
+<div>
+    <app-exo04-articles-enfant2
+        [inputFromParent]="varEnfantFromEmetteur" >
+    </app-exo04-articles-enfant2>
+</div>
+
+<div>
+    <app-exo04-articles-enfant 
+        (outputEmetteur)="onReceivedValue($event)">
+    </app-exo04-articles-enfant> 
+</div>

@@ -1,0 +1,12 @@
+<h2>Les Bindings</h2>
+<h3>Property bindings</h3>
+<p>Username défini dans demo02-binding.ts : {{ username }}</p>
+<p>Mon username est 
+    <input type="text" [(ngModel)]="username" placeholder="Entrez votre nom d'utilisateur...">
+</p>
+<h2>Click me :</h2>
+<input type="button" [value]="count" (click)="onClickIncrement()">
+<input type="button" value = "Reset" (click)="onClickCountZero()">
+<h2>Attribute bindings</h2>
+<input type="button" (click)="onClickSwitch()" [value]="(isSwitch)? 'off' : 'on' " [disabled]="isSwitch" >
+<input type="button" (click)="onClickSwitch()" [value]="(isSwitch)? 'on' : 'off' " [disabled]="!isSwitch"> 

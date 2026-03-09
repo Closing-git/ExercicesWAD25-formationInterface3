@@ -1,0 +1,5 @@
+<h1>Pipes</h1>
+
+<p>Aujourd'hui nous sommes le {{today | date : 'EEEE dd-MM-yyyy' : 'FR-fr'}}</p>
+
+<p>Voici la liste de mes étudiants : </p><div [innerHtml] = " students | htmlList : 'ul'"></div>

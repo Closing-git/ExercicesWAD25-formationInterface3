@@ -1,0 +1,40 @@
+<h1>Animaux</h1>
+<h2>Liste des animaux</h2>
+@if (animals.length > 0){
+<ul>
+    @for(animal of animals ; track animal.name){
+    @if(animal.isWalking){
+    <div [ngStyle]="isWalkingStyle">
+        <li><button (click)="switchBalade(animal)">{{animal.isWalking ? 'En balade' : 'À la maison'}}</button> {{
+            animal.name }} - {{animal.species}} <button disabled (click)="removeAnimal(animal)">Retirer</button> </li>
+            
+    </div>
+    }
+    @else {
+    <div>
+        <li><button (click)="switchBalade(animal)">{{animal.isWalking ? 'En balade' : 'À la maison'}}</button> {{
+            animal.name }} - {{animal.species}} <button (click)="removeAnimal(animal)">Retirer</button> </li>
+            
+    </div>
+    }
+    }
+</ul>
+}
+
+@else {
+<p>Aucun animal trouvé.</p>
+}
+
+
+<h2>Ajouter un animal</h2>
+<form>
+    <input type="text" placeholder="Nom de l'animal" [(ngModel)]="newAnimal.name" name="name">
+    <select name='species' [(ngModel)]="newAnimal.species">
+        <option value="" disabled selected>Choisissez une espèce</option>
+        <option value="Chien">Chien</option>
+        <option value="Chat">Chat</option>
+        <option value="Lapin">Lapin</option>
+    </select>
+
+    <button (click)="addAnimal()">Ajouter</button>
+</form>

@@ -1,0 +1,14 @@
+<h2>Liste des articles</h2>
+
+<div>
+    <div>
+        @if(inputFromParent() && inputFromParent()!.length > 0){    
+        @for(article of inputFromParent() ; track article){
+            
+        <p>{{article}} 
+        <button (click)="removeArticle(article)">🗑️</button></p>
+        }}
+        @else {
+            <p>Pas d'articles</p>
+        }
+    </div>
