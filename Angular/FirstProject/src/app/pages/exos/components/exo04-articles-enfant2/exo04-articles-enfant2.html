@@ -2,11 +2,15 @@
 
 <div>
     <div>
-        @if(inputFromParent() && inputFromParent()!.length > 0){    
-        @for(article of inputFromParent() ; track article){
+        @if(articles() && articles()!.length > 0){    
+        @for(article of articles() ; track article){
             
-        <p>{{article}} 
-        <button (click)="removeArticle(article)">🗑️</button></p>
+        <p>{{article.name}} - {{article.quantity}}
+        <button (click)="onClickRemoveArticle(article)">🗑️</button>
+        <button (click)="onClickMinus(article)"> - </button>
+        <button (click)="onClickPlus(article)"> + </button>
+    </p>
+
         }}
         @else {
             <p>Pas d'articles</p>

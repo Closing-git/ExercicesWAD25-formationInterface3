@@ -8,5 +8,6 @@ export const routes : Routes = [
         {path : 'bindings', loadComponent : () => import('./components/demo02-bindings/demo02-bindings').then(m => m.Demo02Bindings)},
         {path : 'pipes', loadComponent : () => import('./components/demo03-pipes/demo03-pipes').then(m => m.Demo03Pipes)},
         {path : 'directives', loadComponent : () => import('./components/demo04-directives/demo04-directives').then(m => m.Demo04Directives)},
+        {path : 'API', loadComponent : () => import('./components/demo05-api/demo05-api').then(m => m.Demo05API)},
 
 ];

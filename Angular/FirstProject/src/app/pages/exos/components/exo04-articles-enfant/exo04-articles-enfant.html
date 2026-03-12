@@ -1,8 +1,9 @@
 <div class="enfant">
     <h4>AJOUTER UN ARTICLE</h4>
     <div>
-        <label for="outputFromEnfant">Article à ajouter : </label>
-        <input type="text" [(ngModel)]="varEnfant">
-        <button (click)="ajouter(varEnfant)">Ajouter à la liste</button>
+        <label for="newArticle">Article à ajouter : </label>
+        <input type="text" [(ngModel)]="newArticle.name">
+        <input type="number" [(ngModel)]="newArticle.quantity">
+        <button (click)="onClickAjouter(newArticle)">Ajouter à la liste</button>
     </div>
 </div>
